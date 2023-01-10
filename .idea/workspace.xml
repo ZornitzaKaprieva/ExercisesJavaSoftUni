@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercisesJavaSoftUni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingLab/P01HelloSoftUni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingLab/P02Nums1To10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingLab/P03RectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingLab/P04InchesToCentimeters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingLab/P05GreetingByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingLab/P06ConcatenateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingLab/P07ProjectsCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingLab/P08PetShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingLab/P09YardGreening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingPractice/P01USDToBGN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingPractice/P02RadiansToDegrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingPractice/P03DepositCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingPractice/P04VacationBooksList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingPractice/P05SuppliesForSchool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingPractice/P06Repainting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingPractice/P07FoodDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingPractice/P08BasketballEquipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstStepsInCodingPractice/P09FishTank.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K5RjFLkbdiQFcqdf85RI3ZYXDH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/QA/domashni i upravneniq/Java/ExercisesJavaSoftUni",
+    "settings.editor.selected.configurable": "editing.templates"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.P09FishTank">
+    <configuration name="P05SuppliesForSchool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstStepsInCodingPractice.P05SuppliesForSchool" />
+      <module name="ExercisesJavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstStepsInCodingPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P06Repainting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstStepsInCodingPractice.P06Repainting" />
+      <module name="ExercisesJavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstStepsInCodingPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P07FoodDelivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstStepsInCodingPractice.P07FoodDelivery" />
+      <module name="ExercisesJavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstStepsInCodingPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P08BasketballEquipment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstStepsInCodingPractice.P08BasketballEquipment" />
+      <module name="ExercisesJavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstStepsInCodingPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P09FishTank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstStepsInCodingPractice.P09FishTank" />
+      <module name="ExercisesJavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstStepsInCodingPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.P09FishTank" />
+        <item itemvalue="Application.P08BasketballEquipment" />
+        <item itemvalue="Application.P07FoodDelivery" />
+        <item itemvalue="Application.P06Repainting" />
+        <item itemvalue="Application.P05SuppliesForSchool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="" />
+      <created>1673262591727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673262591727</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
