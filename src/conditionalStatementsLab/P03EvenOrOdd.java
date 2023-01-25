@@ -11,7 +11,7 @@ public class P03EvenOrOdd {
         Scanner scanner = new Scanner(System.in);
         int isOddOrEven = Integer.parseInt(scanner.nextLine());
 
-        if(isOddOrEven % 2 == 0) {
+        if(isOddOrEven % 2 == 0) { //модулно деление (hint: 1548 % 10 = 8 (последната цифра); 1548 % 100 = 48 (последните 2 цифри)
             System.out.println("even");
         } else {
             System.out.println("odd");

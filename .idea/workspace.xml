@@ -4,24 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: First Steps In Coding">
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsLab/P01ExcellentResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsLab/P02GreaterNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsLab/P03EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsLab/P04PasswordGuess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsLab/P05Number100To200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsLab/P06SpeedInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsLab/P07AreaOfFigures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsPractice/P01SumSeconds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsPractice/P02BonusScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsPractice/P03TimePlus15Minutes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsPractice/P04ToyShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsPractice/P05GodzillaVSKong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsPractice/P06WorldSwimmingRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsPractice/P07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsPractice/P08LunchBreak.java" afterDir="false" />
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Conditional Statements">
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedLab/P01DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedLab/P02WeekendOrWorkingDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedLab/P03AnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedLab/P04PersonalTitles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedLab/P05SmallShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedLab/P06NumberInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedLab/P07WorkingHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedLab/P08CinemaTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedLab/P09FruitOrVegetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedLab/P10InvalidNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedLab/P11FruitShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedLab/P12TradeCommissions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P01Cinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P02SummerOutfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P03NewHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P04FishingBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P05Journey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P06OperationsBetweenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P07HotelRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P08OnTimeForTheExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P09SkiTrip.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsLab/P03EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionalStatementsLab/P03EvenOrOdd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "last_opened_file_path": "D:/QA/domashni i upravneniq/Java/ExercisesJavaSoftUni",
+    "last_opened_file_path": "D:/QA/domashni i upravneniq/Java/HomeworksJavaQASoftwareAcademy",
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
@@ -62,13 +69,13 @@
       <recent name="D:\QA\domashni i upravneniq\Java\ExercisesJavaSoftUni\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P07Shopping">
-    <configuration name="P02BonusScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalStatementsPractice.P02BonusScore" />
+  <component name="RunManager" selected="Application.P04FishingBoat">
+    <configuration name="P04FishingBoat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalStatementsAdvancedPractice.P04FishingBoat" />
       <module name="ExercisesJavaSoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditionalStatementsPractice.*" />
+          <option name="PATTERN" value="conditionalStatementsAdvancedPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P05GodzillaVSKong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalStatementsPractice.P05GodzillaVSKong" />
+    <configuration name="P06OperationsBetweenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalStatementsAdvancedPractice.P06OperationsBetweenNumbers" />
       <module name="ExercisesJavaSoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditionalStatementsPractice.*" />
+          <option name="PATTERN" value="conditionalStatementsAdvancedPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P06WorldSwimmingRecord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalStatementsPractice.P06WorldSwimmingRecord" />
+    <configuration name="P07HotelRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalStatementsAdvancedPractice.P07HotelRoom" />
       <module name="ExercisesJavaSoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditionalStatementsPractice.*" />
+          <option name="PATTERN" value="conditionalStatementsAdvancedPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07Shopping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalStatementsPractice.P07Shopping" />
+    <configuration name="P08OnTimeForTheExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalStatementsAdvancedPractice.P08OnTimeForTheExam" />
       <module name="ExercisesJavaSoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditionalStatementsPractice.*" />
+          <option name="PATTERN" value="conditionalStatementsAdvancedPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P08LunchBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalStatementsPractice.P08LunchBreak" />
+    <configuration name="P09SkiTrip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalStatementsAdvancedPractice.P09SkiTrip" />
       <module name="ExercisesJavaSoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditionalStatementsPractice.*" />
+          <option name="PATTERN" value="conditionalStatementsAdvancedPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P07Shopping" />
-        <item itemvalue="Application.P08LunchBreak" />
-        <item itemvalue="Application.P06WorldSwimmingRecord" />
-        <item itemvalue="Application.P02BonusScore" />
-        <item itemvalue="Application.P05GodzillaVSKong" />
+        <item itemvalue="Application.P04FishingBoat" />
+        <item itemvalue="Application.P09SkiTrip" />
+        <item itemvalue="Application.P08OnTimeForTheExam" />
+        <item itemvalue="Application.P07HotelRoom" />
+        <item itemvalue="Application.P06OperationsBetweenNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -154,12 +161,20 @@
       <option name="project" value="LOCAL" />
       <updated>1673344495515</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Java Practice from SoftUni: Conditional Statements">
+      <created>1674460620854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674460620854</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Practice from SoftUni: First Steps In Coding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: First Steps In Coding" />
+    <MESSAGE value="Java Practice from SoftUni: Conditional Statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Conditional Statements" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -175,7 +190,7 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/conditionalStatementsPractice/P07.java</url>
+          <url>file://$PROJECT_DIR$/src/conditionalStatementsPractice/P07Shopping.java</url>
           <line>39</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
@@ -193,6 +208,31 @@
           <url>file://$PROJECT_DIR$/src/conditionalStatementsPractice/P08LunchBreak.java</url>
           <line>33</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/conditionalStatementsAdvancedLab/P05SmallShop.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P03NewHouse.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P03NewHouse.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P04FishingBoat.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P09SkiTrip.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
