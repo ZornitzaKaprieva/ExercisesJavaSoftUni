@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Conditional Statements Advanced Lab">
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Conditional Statements Advanced Practice">
       <change afterPath="$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P01MatchTickets.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P02BikeRace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P01Cinema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P02SummerOutfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P03NewHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P04FishingBoat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P05Journey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P06OperationsBetweenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P07HotelRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P08OnTimeForTheExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalStatementsAdvancedPractice/P09SkiTrip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "last_opened_file_path": "D:/QA/domashni i upravneniq/Java/HomeworksJavaQASoftwareAcademy",
+    "last_opened_file_path": "D:/QA/domashni i upravneniq/Java/ExercisesJavaSoftUni/src",
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
@@ -164,14 +153,22 @@
       <option name="project" value="LOCAL" />
       <updated>1674647152540</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java Practice from SoftUni: Conditional Statements Advanced Practice">
+      <created>1674810861887</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674810861887</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Practice from SoftUni: First Steps In Coding" />
     <MESSAGE value="Java Practice from SoftUni: Conditional Statements" />
     <MESSAGE value="Java Practice from SoftUni: Conditional Statements Advanced Lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Conditional Statements Advanced Lab" />
+    <MESSAGE value="Java Practice from SoftUni: Conditional Statements Advanced Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Conditional Statements Advanced Practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
