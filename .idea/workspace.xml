@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Conditional Statements Advanced Practice">
-      <change afterPath="$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P01MatchTickets.java" afterDir="false" />
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Conditional Statements Advanced Practice (Additional Exercises) P01">
       <change afterPath="$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P02BikeRace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "last_opened_file_path": "D:/QA/domashni i upravneniq/Java/ExercisesJavaSoftUni/src",
+    "last_opened_file_path": "D:/QA/domashni i upravneniq/Java/ExercisesJavaSoftUni",
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
@@ -47,7 +48,7 @@
       <recent name="D:\QA\domashni i upravneniq\Java\ExercisesJavaSoftUni\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P02BikeRace">
+  <component name="RunManager" selected="Application.P03Solution2">
     <configuration name="P01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="additionalExercises.additionalExercisesConditionalStatementsAdvanced.P01" />
       <module name="ExercisesJavaSoftUni" />
@@ -74,6 +75,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="additionalExercisesConditionalStatementsAdvanced.P03" />
+      <module name="ExercisesJavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="additionalExercisesConditionalStatementsAdvanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P03Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="additionalExercisesConditionalStatementsAdvanced.P03Solution1" />
+      <module name="ExercisesJavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="additionalExercisesConditionalStatementsAdvanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P04FishingBoat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="conditionalStatementsAdvancedPractice.P04FishingBoat" />
       <module name="ExercisesJavaSoftUni" />
@@ -87,39 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P08OnTimeForTheExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalStatementsAdvancedPractice.P08OnTimeForTheExam" />
-      <module name="ExercisesJavaSoftUni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="conditionalStatementsAdvancedPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P09SkiTrip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalStatementsAdvancedPractice.P09SkiTrip" />
-      <module name="ExercisesJavaSoftUni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="conditionalStatementsAdvancedPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P03Solution2" />
+        <item itemvalue="Application.P03Solution1" />
         <item itemvalue="Application.P02BikeRace" />
         <item itemvalue="Application.P01" />
         <item itemvalue="Application.P04FishingBoat" />
-        <item itemvalue="Application.P09SkiTrip" />
-        <item itemvalue="Application.P08OnTimeForTheExam" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674810861887</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Java Practice from SoftUni: Conditional Statements Advanced Practice (Additional Exercises) P01">
+      <created>1674897798196</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674897798196</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -168,7 +176,8 @@
     <MESSAGE value="Java Practice from SoftUni: Conditional Statements" />
     <MESSAGE value="Java Practice from SoftUni: Conditional Statements Advanced Lab" />
     <MESSAGE value="Java Practice from SoftUni: Conditional Statements Advanced Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Conditional Statements Advanced Practice" />
+    <MESSAGE value="Java Practice from SoftUni: Conditional Statements Advanced Practice (Additional Exercises) P01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Conditional Statements Advanced Practice (Additional Exercises) P01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -234,14 +243,14 @@
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P02BikeRace.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="45" />
+          <url>file://$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P03Solution1.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P02BikeRace.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="46" />
+          <url>file://$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P03Solution1.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
