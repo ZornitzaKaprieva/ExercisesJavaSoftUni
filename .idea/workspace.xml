@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Conditional Statements Advanced Practice (Additional Exercises) P01">
-      <change afterPath="$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P02BikeRace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P03.java" afterDir="false" />
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Conditional Statements Advanced Practice (Additional Exercises) P02">
+      <change afterPath="$PROJECT_DIR$/src/forLoopLab/P01NumbersFrom1To100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P02BikeRace.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,22 +40,25 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "last_opened_file_path": "D:/QA/domashni i upravneniq/Java/ExercisesJavaSoftUni",
-    "settings.editor.selected.configurable": "editing.templates"
+    "last_opened_file_path": "D:/QA/domashni i upravneniq/Java/HomeworksJavaSoftwareAcademy",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\QA\domashni i upravneniq\Java\ExercisesJavaSoftUni\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="additionalExercisesConditionalStatementsAdvanced" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.P03Solution2">
-    <configuration name="P01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="additionalExercises.additionalExercisesConditionalStatementsAdvanced.P01" />
+  <component name="RunManager" selected="Application.P03Numbers1ToNWithStep3">
+    <configuration name="P01NumbersFrom1To100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forLoopLab.P01NumbersFrom1To100" />
       <module name="ExercisesJavaSoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="additionalExercises.additionalExercisesConditionalStatementsAdvanced.*" />
+          <option name="PATTERN" value="forLoopLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P02BikeRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="additionalExercisesConditionalStatementsAdvanced.P02BikeRace" />
+    <configuration name="P02NumbersNTo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forLoopLab.P02NumbersNTo1" />
       <module name="ExercisesJavaSoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="additionalExercisesConditionalStatementsAdvanced.*" />
+          <option name="PATTERN" value="forLoopLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,8 +79,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="additionalExercisesConditionalStatementsAdvanced.P03" />
+    <configuration name="P03Numbers1ToNWithStep3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forLoopLab.P03Numbers1ToNWithStep3" />
+      <module name="ExercisesJavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forLoopLab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P03OkWithoutWinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="additionalExercisesConditionalStatementsAdvanced.P03OkWithoutWinter" />
       <module name="ExercisesJavaSoftUni" />
       <extension name="coverage">
         <pattern>
@@ -101,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04FishingBoat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalStatementsAdvancedPractice.P04FishingBoat" />
-      <module name="ExercisesJavaSoftUni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="conditionalStatementsAdvancedPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P03Solution2" />
+        <item itemvalue="Application.P03Numbers1ToNWithStep3" />
+        <item itemvalue="Application.P02NumbersNTo1" />
+        <item itemvalue="Application.P01NumbersFrom1To100" />
+        <item itemvalue="Application.P03OkWithoutWinter" />
         <item itemvalue="Application.P03Solution1" />
-        <item itemvalue="Application.P02BikeRace" />
-        <item itemvalue="Application.P01" />
-        <item itemvalue="Application.P04FishingBoat" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674897798196</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Java Practice from SoftUni: Conditional Statements Advanced Practice (Additional Exercises) P02">
+      <created>1674913216136</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674913216136</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -177,7 +188,8 @@
     <MESSAGE value="Java Practice from SoftUni: Conditional Statements Advanced Lab" />
     <MESSAGE value="Java Practice from SoftUni: Conditional Statements Advanced Practice" />
     <MESSAGE value="Java Practice from SoftUni: Conditional Statements Advanced Practice (Additional Exercises) P01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Conditional Statements Advanced Practice (Additional Exercises) P01" />
+    <MESSAGE value="Java Practice from SoftUni: Conditional Statements Advanced Practice (Additional Exercises) P02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Conditional Statements Advanced Practice (Additional Exercises) P02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -241,16 +253,6 @@
           <url>file://$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P01MatchTickets.java</url>
           <line>67</line>
           <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P03Solution1.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/additionalExercisesConditionalStatementsAdvanced/P03Solution1.java</url>
-          <line>65</line>
-          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
