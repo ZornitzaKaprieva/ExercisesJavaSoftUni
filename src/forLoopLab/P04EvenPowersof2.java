@@ -3,7 +3,8 @@ package forLoopLab;
 import java.util.Scanner;
 
 /*Да се напише програма, която чете число n, въведено от потребителя
-и печата четните степени на 2 ≤ 2n: 20, 22, 24, 26, …, 2n. */
+и печата четните степени на 2 ≤ 2n:
+20, 22, 24, 26, …, 2n. */
 public class P04EvenPowersof2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
