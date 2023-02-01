@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: For Loop Lab P04" />
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: For Loop Lab P06">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,7 +220,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675156433614</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Java Practice from SoftUni: For Loop Lab P05">
+      <created>1675156519158</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675156519158</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Java Practice from SoftUni: For Loop Lab P06">
+      <created>1675156720665</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675156720665</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,7 +250,9 @@
     <MESSAGE value="Java Practice from SoftUni: &#10;organizing packages" />
     <MESSAGE value="Java Practice from SoftUni: P04" />
     <MESSAGE value="Java Practice from SoftUni: For Loop Lab P04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: For Loop Lab P04" />
+    <MESSAGE value="Java Practice from SoftUni: For Loop Lab P05" />
+    <MESSAGE value="Java Practice from SoftUni: For Loop Lab P06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: For Loop Lab P06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
