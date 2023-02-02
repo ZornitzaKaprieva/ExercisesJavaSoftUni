@@ -15,6 +15,5 @@ public class P01NumbersEndingIn7 {
 ////        for (int i = 7; i <= 997; i += 10) { //така отпада нуждата от if
 ////                System.out.println(i);
 ////            }
-
         }
     }
