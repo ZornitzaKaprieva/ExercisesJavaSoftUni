@@ -1,4 +1,4 @@
-package forLoopLab;
+package forLoop.forLoopLab;
 
 import java.util.Scanner;
 

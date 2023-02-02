@@ -1,4 +1,4 @@
-package forLoopLab;
+package forLoop.forLoopLab;
 
 /*Напишете програма, която отпечатва числата от 1 до 100, всяко на нов ред.*/
 
