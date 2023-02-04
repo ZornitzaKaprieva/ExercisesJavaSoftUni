@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: organizing packages">
-      <change afterPath="$PROJECT_DIR$/src/forLoop/forLoopPracitce/P01NumbersEndingIn7.java" afterDir="false" />
-    </list>
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: For Loop Pracitce P02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +45,7 @@
       <recent name="D:\QA\domashni i upravneniq\Java\ExercisesJavaSoftUni\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="forLoop.forLoopPracitce" />
       <recent name="forLoopLab" />
       <recent name="additionalExercisesConditionalStatementsAdvanced" />
     </key>
@@ -269,7 +268,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675353769395</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Java Practice from SoftUni: For Loop Pracitce P01">
+      <created>1675353919868</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1675353919868</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Java Practice from SoftUni: For Loop Pracitce P01">
+      <created>1675354027452</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1675354027452</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Java Practice from SoftUni: For Loop Pracitce P02">
+      <created>1675354082540</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1675354082540</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -292,7 +312,9 @@
     <MESSAGE value="Java Practice from SoftUni: For Loop Lab P09" />
     <MESSAGE value="Java Practice from SoftUni: For Loop Lab P10" />
     <MESSAGE value="Java Practice from SoftUni: organizing packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: organizing packages" />
+    <MESSAGE value="Java Practice from SoftUni: For Loop Pracitce P01" />
+    <MESSAGE value="Java Practice from SoftUni: For Loop Pracitce P02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: For Loop Pracitce P02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
