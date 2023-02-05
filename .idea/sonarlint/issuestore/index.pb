@@ -118,3 +118,11 @@ Tsrc/conditionalStatementsAdvanced/conditionalStatementsAdvancedLab/P11FruitShop
 0src/forLoop/forLoopLab/P01NumbersFrom1To100.java,5\b\5bb879565498a44430f37dd7e3507d06ea0f3422
 Z
 *src/forLoop/forLoopLab/P02NumbersNTo1.java,8\9\89cf50ee91396b2220076188875d359fcd3ced11
+c
+3src/forLoop/forLoopLab/P03Numbers1ToNWithStep3.java,9\4\9429757332621725bd900d53c71a20a110460bbc
+\
+,src/forLoop/forLoopLab/P04EvenPowersof2.java,5\8\581c5112dc303c70b51ef608a750b280417db2f8
+`
+0src/forLoop/forLoopLab/P05CharacterSequence.java,c\0\c0c3242d66e42216ad29fa2d9806cfabaec6708f
+X
+(src/forLoop/forLoopLab/P06VowelsSum.java,3\8\38766242e947b2de9f8b74d828ebef2b0abf4cff

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: For Loop Practice P05" />
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: For Loop Practice P06" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -310,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675519632255</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Java Practice from SoftUni: For Loop Practice P06">
+      <created>1675519704341</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1675519704341</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -338,7 +345,8 @@
     <MESSAGE value="Java Practice from SoftUni: For Loop Practice P03" />
     <MESSAGE value="Java Practice from SoftUni: For Loop Practice P04" />
     <MESSAGE value="Java Practice from SoftUni: For Loop Practice P05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: For Loop Practice P05" />
+    <MESSAGE value="Java Practice from SoftUni: For Loop Practice P06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: For Loop Practice P06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
