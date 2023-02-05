@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: For Loop Practice P06" />
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: For Loop Practice P08" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +45,7 @@
       <recent name="D:\QA\domashni i upravneniq\Java\ExercisesJavaSoftUni\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="whileLoop.whileLoopLab" />
       <recent name="forLoop.forLoopPracitce" />
       <recent name="forLoopLab" />
       <recent name="additionalExercisesConditionalStatementsAdvanced" />
@@ -317,12 +318,24 @@
       <option name="project" value="LOCAL" />
       <updated>1675519704341</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Java Practice from SoftUni: For Loop Practice P07">
+      <created>1675581242480</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1675581242481</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Java Practice from SoftUni: For Loop Practice P08">
+      <created>1675581305874</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1675581305874</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Practice from SoftUni: First Steps In Coding" />
-    <MESSAGE value="Java Practice from SoftUni: Conditional Statements" />
     <MESSAGE value="Java Practice from SoftUni: Conditional Statements Advanced Lab" />
     <MESSAGE value="Java Practice from SoftUni: Conditional Statements Advanced Practice" />
     <MESSAGE value="Java Practice from SoftUni: Conditional Statements Advanced Practice (Additional Exercises) P01" />
@@ -346,7 +359,9 @@
     <MESSAGE value="Java Practice from SoftUni: For Loop Practice P04" />
     <MESSAGE value="Java Practice from SoftUni: For Loop Practice P05" />
     <MESSAGE value="Java Practice from SoftUni: For Loop Practice P06" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: For Loop Practice P06" />
+    <MESSAGE value="Java Practice from SoftUni: For Loop Practice P07" />
+    <MESSAGE value="Java Practice from SoftUni: For Loop Practice P08" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: For Loop Practice P08" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
