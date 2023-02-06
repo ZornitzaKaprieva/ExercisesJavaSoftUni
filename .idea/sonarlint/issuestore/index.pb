@@ -126,3 +126,9 @@ c
 0src/forLoop/forLoopLab/P05CharacterSequence.java,c\0\c0c3242d66e42216ad29fa2d9806cfabaec6708f
 X
 (src/forLoop/forLoopLab/P06VowelsSum.java,3\8\38766242e947b2de9f8b74d828ebef2b0abf4cff
+Y
+)src/forLoop/forLoopLab/P07SumNumbers.java,9\1\91a4a274187f3eda98584ec335de0b0a255febf1
+]
+-src/forLoop/forLoopLab/P08NumberSequence.java,4\7\47911245aff065539198318c1f5cccdf94575611
+^
+.src/forLoop/forLoopLab/P09LeftAndRightSum.java,3\5\357ce144dba2b5ffd581389089035d6411608a36
