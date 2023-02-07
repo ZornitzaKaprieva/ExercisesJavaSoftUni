@@ -132,3 +132,11 @@ Y
 -src/forLoop/forLoopLab/P08NumberSequence.java,4\7\47911245aff065539198318c1f5cccdf94575611
 ^
 .src/forLoop/forLoopLab/P09LeftAndRightSum.java,3\5\357ce144dba2b5ffd581389089035d6411608a36
+Y
+)src/forLoop/forLoopLab/P10OddEvenSum.java,c\e\cee14043bce20fbd6d7e0e0b84be2c293a4687d2
+d
+4src/forLoop/forLoopPracitce/P01NumbersEndingIn7.java,8\e\8ed76d74c1284bf1fefdaf57ce14c50b51db48d9
+b
+2src/forLoop/forLoopPracitce/P02HalfSumElement.java,c\5\c5518aa538247c77f6f6a34dbdb070034efbb1b1
+]
+-src/forLoop/forLoopPracitce/P03Histogram.java,7\8\787fe017ac25842fc6c4fbfff28955620518049f
