@@ -140,3 +140,9 @@ b
 2src/forLoop/forLoopPracitce/P02HalfSumElement.java,c\5\c5518aa538247c77f6f6a34dbdb070034efbb1b1
 ]
 -src/forLoop/forLoopPracitce/P03Histogram.java,7\8\787fe017ac25842fc6c4fbfff28955620518049f
+^
+.src/forLoop/forLoopPracitce/P04CleverLily.java,d\3\d33b9713a28694a8b8c83839afa055d42becd807
+Z
+*src/forLoop/forLoopPracitce/P05Salary.java,f\8\f86f0ecb9447298458e090dff81a8da30571c631
+Z
+*src/forLoop/forLoopPracitce/P06Oscars.java,8\a\8af91688b0dff797defb629f84d6ce4bb2b54aec
