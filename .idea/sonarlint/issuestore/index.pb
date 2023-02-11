@@ -146,3 +146,9 @@ Z
 *src/forLoop/forLoopPracitce/P05Salary.java,f\8\f86f0ecb9447298458e090dff81a8da30571c631
 Z
 *src/forLoop/forLoopPracitce/P06Oscars.java,8\a\8af91688b0dff797defb629f84d6ce4bb2b54aec
+a
+1src/forLoop/forLoopPracitce/P07TrekkingMania.java,8\e\8eb5f9caed2e56b0e2d09df18ee97b0f3665b071
+b
+2src/forLoop/forLoopPracitce/P08TennisRanklist.java,c\d\cdf2d826fc18771928f66efb864983355cba7740
+[
++src/whileLoop/whileLoopLab/P01ReadText.java,8\5\859ac4365240cbf9a42112e9aa9f7181c1e576fa

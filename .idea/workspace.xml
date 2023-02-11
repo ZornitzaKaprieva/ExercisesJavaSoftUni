@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: While Loop Lab P08" />
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: While Loop Practice P03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "last_opened_file_path": "D:/QA/domashni i upravneniq/Java/ExercisesJavaSoftUni",
+    "last_opened_file_path": "D:/QA/domashni i upravneniq/Java/PracticeQAAutomationSaucedemo",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
@@ -45,6 +45,7 @@
       <recent name="D:\QA\domashni i upravneniq\Java\ExercisesJavaSoftUni\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="whileLoop.whileLoopPractice" />
       <recent name="whileLoop.whileLoopLab" />
       <recent name="forLoop.forLoopPracitce" />
       <recent name="forLoopLab" />
@@ -395,13 +396,31 @@
       <option name="project" value="LOCAL" />
       <updated>1675780374978</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Java Practice from SoftUni: While Loop Practice P01">
+      <created>1675924519250</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1675924519250</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Java Practice from SoftUni: While Loop Practice P02">
+      <created>1675924607119</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1675924607119</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Java Practice from SoftUni: While Loop Practice P03">
+      <created>1675924649562</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1675924649562</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Practice from SoftUni: P04" />
-    <MESSAGE value="Java Practice from SoftUni: For Loop Lab P04" />
-    <MESSAGE value="Java Practice from SoftUni: For Loop Lab P05" />
     <MESSAGE value="Java Practice from SoftUni: For Loop Lab P06" />
     <MESSAGE value="Java Practice from SoftUni: For Loop Lab P07" />
     <MESSAGE value="Java Practice from SoftUni: For Loop Lab P08" />
@@ -424,7 +443,10 @@
     <MESSAGE value="Java Practice from SoftUni: While Loop Lab P06" />
     <MESSAGE value="Java Practice from SoftUni: While Loop Lab P07" />
     <MESSAGE value="Java Practice from SoftUni: While Loop Lab P08" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: While Loop Lab P08" />
+    <MESSAGE value="Java Practice from SoftUni: While Loop Practice P01" />
+    <MESSAGE value="Java Practice from SoftUni: While Loop Practice P02" />
+    <MESSAGE value="Java Practice from SoftUni: While Loop Practice P03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: While Loop Practice P03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
