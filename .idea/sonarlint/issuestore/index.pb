@@ -144,8 +144,6 @@ b
 .src/forLoop/forLoopPracitce/P04CleverLily.java,d\3\d33b9713a28694a8b8c83839afa055d42becd807
 Z
 *src/forLoop/forLoopPracitce/P05Salary.java,f\8\f86f0ecb9447298458e090dff81a8da30571c631
-Z
-*src/forLoop/forLoopPracitce/P06Oscars.java,8\a\8af91688b0dff797defb629f84d6ce4bb2b54aec
 b
 2src/forLoop/forLoopPracitce/P08TennisRanklist.java,c\d\cdf2d826fc18771928f66efb864983355cba7740
 [
@@ -160,3 +158,11 @@ a
 1src/whileLoop/whileLoopLab/P05AccountBalance.java,6\1\61a077516cf69d67220eb0411d08a228c9ff267f
 \
 ,src/whileLoop/whileLoopLab/P06MaxNumber.java,d\0\d0fac6d3af1003e9c7f469450e4c5b650a309924
+\
+,src/whileLoop/whileLoopLab/P07MinNumber.java,0\7\076046f70485a31a209e4a62697242f96e992f3d
+]
+-src/whileLoop/whileLoopLab/P08Graduation.java,7\9\799aa39f9214156238f889bab7e5a902d3c8fd4c
+`
+0src/whileLoop/whileLoopPractice/P01OldBooks.java,e\3\e3c6bbc814f7d451aa89e2a1a8e1bb9473fdca43
+g
+7src/whileLoop/whileLoopPractice/P02ExamPreparation.java,c\4\c4b95ed1bb298522678f5de461d5427f2cd126a0

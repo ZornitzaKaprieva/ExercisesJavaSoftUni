@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: While Loop Practice P07">
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Nested Loops Lab P02">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -32,27 +32,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/QA/domashni i upravneniq/Java/ExercisesJavaSoftUni&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "last_opened_file_path": "D:/QA/domashni i upravneniq/Java/ExercisesJavaSoftUni",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\QA\domashni i upravneniq\Java\ExercisesJavaSoftUni\src\forLoopLab" />
       <recent name="D:\QA\domashni i upravneniq\Java\ExercisesJavaSoftUni\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nestedLoops.nestedLoopsLab" />
+      <recent name="nestedLoopsLab" />
       <recent name="whileLoop.whileLoopPractice" />
       <recent name="whileLoop.whileLoopLab" />
       <recent name="forLoop.forLoopPracitce" />
-      <recent name="forLoopLab" />
-      <recent name="additionalExercisesConditionalStatementsAdvanced" />
     </key>
   </component>
   <component name="RunManager" selected="Application.P10OddEvenSum">
@@ -448,12 +448,24 @@
       <option name="project" value="LOCAL" />
       <updated>1676270234491</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Java Practice from SoftUni: Nested Loops Lab P01">
+      <created>1676712520842</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1676712520842</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Java Practice from SoftUni: Nested Loops Lab P02">
+      <created>1676712560929</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1676712560929</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Practice from SoftUni: For Loop Lab P10" />
-    <MESSAGE value="Java Practice from SoftUni: organizing packages" />
     <MESSAGE value="Java Practice from SoftUni: For Loop Pracitce P01" />
     <MESSAGE value="Java Practice from SoftUni: For Loop Pracitce P02" />
     <MESSAGE value="Java Practice from SoftUni: For Loop Practice P03" />
@@ -477,7 +489,9 @@
     <MESSAGE value="Java Practice from SoftUni: While Loop Practice P05" />
     <MESSAGE value="Java Practice from SoftUni: While Loop Practice P06" />
     <MESSAGE value="Java Practice from SoftUni: While Loop Practice P07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: While Loop Practice P07" />
+    <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P01" />
+    <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Nested Loops Lab P02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
