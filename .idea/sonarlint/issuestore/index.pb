@@ -172,3 +172,7 @@ d
 4src/forLoop/forLoopPracitce/P01NumbersEndingIn7.java,8\e\8ed76d74c1284bf1fefdaf57ce14c50b51db48d9
 b
 2src/forLoop/forLoopPracitce/P08TennisRanklist.java,c\d\cdf2d826fc18771928f66efb864983355cba7740
+Z
+*src/forLoop/forLoopPracitce/P06Oscars.java,8\a\8af91688b0dff797defb629f84d6ce4bb2b54aec
+[
++src/whileLoop/whileLoopLab/P02Password.java,b\3\b3fb6fe5e7d7ded53e94bbc7184266f275a519f0

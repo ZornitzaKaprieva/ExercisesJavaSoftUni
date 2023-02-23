@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Nested Loops Lab P05">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Nested Loops Practice P03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,11 +45,11 @@
       <recent name="D:\QA\domashni i upravneniq\Java\ExercisesJavaSoftUni\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nestedLoops.nestedLoopsPractice" />
       <recent name="nestedLoops.nestedLoopsLab" />
       <recent name="nestedLoopsLab" />
       <recent name="whileLoop.whileLoopPractice" />
       <recent name="whileLoop.whileLoopLab" />
-      <recent name="forLoop.forLoopPracitce" />
     </key>
   </component>
   <component name="RunManager" selected="Application.P10OddEvenSum">
@@ -139,27 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673262591727</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Java Practice from SoftUni: First Steps In Coding">
-      <created>1673344495515</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1673344495515</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Java Practice from SoftUni: Conditional Statements">
-      <created>1674460620854</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1674460620854</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Java Practice from SoftUni: Conditional Statements Advanced Lab">
-      <created>1674647152540</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1674647152540</updated>
     </task>
     <task id="LOCAL-00004" summary="Java Practice from SoftUni: Conditional Statements Advanced Practice">
       <created>1674810861887</created>
@@ -483,13 +459,31 @@
       <option name="project" value="LOCAL" />
       <updated>1676961885096</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Java Practice from SoftUni: Nested Loops Lab P06">
+      <created>1677063735742</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1677063735742</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Java Practice from SoftUni: Nested Loops Practice P02">
+      <created>1677063802773</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1677063802773</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Java Practice from SoftUni: Nested Loops Practice P03">
+      <created>1677063849427</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1677063849427</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Practice from SoftUni: For Loop Practice P04" />
-    <MESSAGE value="Java Practice from SoftUni: For Loop Practice P05" />
-    <MESSAGE value="Java Practice from SoftUni: For Loop Practice P06" />
     <MESSAGE value="Java Practice from SoftUni: For Loop Practice P07" />
     <MESSAGE value="Java Practice from SoftUni: For Loop Practice P08" />
     <MESSAGE value="Java Practice from SoftUni: While Loop Lab P01" />
@@ -512,7 +506,10 @@
     <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P03" />
     <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P04" />
     <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Nested Loops Lab P05" />
+    <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P06" />
+    <MESSAGE value="Java Practice from SoftUni: Nested Loops Practice P02" />
+    <MESSAGE value="Java Practice from SoftUni: Nested Loops Practice P03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Nested Loops Practice P03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
