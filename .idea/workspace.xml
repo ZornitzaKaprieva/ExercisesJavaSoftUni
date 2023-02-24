@@ -4,7 +4,109 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Nested Loops Practice P05" />
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Nested Loops Practice P05 (Solution 2)">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsLab/P01ExcellentResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/lab/P01ExcellentResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsLab/P02GreaterNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/lab/P02GreaterNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsLab/P03EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/lab/P03EvenOrOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsLab/P04PasswordGuess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/lab/P04PasswordGuess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsLab/P05Number100To200.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/lab/P05Number100To200.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsLab/P06SpeedInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/lab/P06SpeedInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsLab/P07AreaOfFigures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/lab/P07AreaOfFigures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsPractice/P01SumSeconds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/practice/P01SumSeconds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsPractice/P02BonusScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/practice/P02BonusScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsPractice/P03TimePlus15Minutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/practice/P03TimePlus15Minutes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsPractice/P04ToyShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/practice/P04ToyShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsPractice/P05GodzillaVSKong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/practice/P05GodzillaVSKong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsPractice/P06WorldSwimmingRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/practice/P06WorldSwimmingRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsPractice/P07Shopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/practice/P07Shopping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsPractice/P08LunchBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/practice/P08LunchBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedAdditionalExercises/P01MatchTickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/additional/exercises/P01MatchTickets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedLab/P01DayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/lab/P01DayOfWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedLab/P02WeekendOrWorkingDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/lab/P02WeekendOrWorkingDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedLab/P03AnimalType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/lab/P03AnimalType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedLab/P04PersonalTitles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/lab/P04PersonalTitles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedLab/P05SmallShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/lab/P05SmallShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedLab/P06NumberInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/lab/P06NumberInRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedLab/P07WorkingHours.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/lab/P07WorkingHours.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedLab/P08CinemaTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/lab/P08CinemaTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedLab/P09FruitOrVegetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/lab/P09FruitOrVegetable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedLab/P10InvalidNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/lab/P10InvalidNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedLab/P11FruitShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/lab/P11FruitShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedLab/P12TradeCommissions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/lab/P12TradeCommissions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedPractice/P01Cinema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/practice/P01Cinema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedPractice/P02SummerOutfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/practice/P02SummerOutfit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedPractice/P03NewHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/practice/P03NewHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedPractice/P04FishingBoat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/practice/P04FishingBoat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedPractice/P05Journey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/practice/P05Journey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedPractice/P06OperationsBetweenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/practice/P06OperationsBetweenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedPractice/P07HotelRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/practice/P07HotelRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedPractice/P08OnTimeForTheExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/practice/P08OnTimeForTheExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedPractice/P09SkiTrip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional/statements/advanced/practice/P09SkiTrip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingLab/P01HelloSoftUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/lab/P01HelloSoftUni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingLab/P02Nums1To10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/lab/P02Nums1To10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingLab/P03RectangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/lab/P03RectangleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingLab/P04InchesToCentimeters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/lab/P04InchesToCentimeters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingLab/P05GreetingByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/lab/P05GreetingByName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingLab/P06ConcatenateData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/lab/P06ConcatenateData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingLab/P07ProjectsCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/lab/P07ProjectsCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingLab/P08PetShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/lab/P08PetShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingLab/P09YardGreening.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/lab/P09YardGreening.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingPractice/P01USDToBGN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/practice/P01USDToBGN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingPractice/P02RadiansToDegrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/practice/P02RadiansToDegrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingPractice/P03DepositCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/practice/P03DepositCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingPractice/P04VacationBooksList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/practice/P04VacationBooksList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingPractice/P05SuppliesForSchool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/practice/P05SuppliesForSchool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingPractice/P06Repainting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/practice/P06Repainting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingPractice/P07FoodDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/practice/P07FoodDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingPractice/P08BasketballEquipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/practice/P08BasketballEquipment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstStepsInCoding/firstStepsInCodingPractice/P09FishTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/steps/in/coding/practice/P09FishTank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopLab/P01NumbersFrom1To100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/lab/P01NumbersFrom1To100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopLab/P02NumbersNTo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/lab/P02NumbersNTo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopLab/P03Numbers1ToNWithStep3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/lab/P03Numbers1ToNWithStep3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopLab/P04EvenPowersof2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/lab/P04EvenPowersof2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopLab/P05CharacterSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/lab/P05CharacterSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopLab/P06VowelsSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/lab/P06VowelsSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopLab/P07SumNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/lab/P07SumNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopLab/P08NumberSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/lab/P08NumberSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopLab/P09LeftAndRightSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/lab/P09LeftAndRightSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopLab/P10OddEvenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/lab/P10OddEvenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopPracitce/P01NumbersEndingIn7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/pracitce/P01NumbersEndingIn7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopPracitce/P02HalfSumElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/pracitce/P02HalfSumElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopPracitce/P03Histogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/pracitce/P03Histogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopPracitce/P04CleverLily.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/pracitce/P04CleverLily.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopPracitce/P05Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/pracitce/P05Salary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopPracitce/P06Oscars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/pracitce/P06Oscars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopPracitce/P07TrekkingMania.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/pracitce/P07TrekkingMania.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop/forLoopPracitce/P08TennisRanklist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/for/loop/pracitce/P08TennisRanklist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nestedLoops/nestedLoopsLab/P01Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nested/loops/lab/P01Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nestedLoops/nestedLoopsLab/P02MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nested/loops/lab/P02MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nestedLoops/nestedLoopsLab/P03Combinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nested/loops/lab/P03Combinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nestedLoops/nestedLoopsLab/P04SumOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nested/loops/lab/P04SumOfTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nestedLoops/nestedLoopsLab/P05Travelling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nested/loops/lab/P05Travelling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nestedLoops/nestedLoopsLab/P06Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nested/loops/lab/P06Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nestedLoops/nestedLoopsPractice/P02EqualSumsEvenOddPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nested/loops/practice/P02EqualSumsEvenOddPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nestedLoops/nestedLoopsPractice/P03SumPrimeNonPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nested/loops/practice/P03SumPrimeNonPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nestedLoops/nestedLoopsPractice/P04TrainTheTrainers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nested/loops/practice/P04TrainTheTrainers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nestedLoops/nestedLoopsPractice/P05SpecialNumbersSolution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nested/loops/practice/P05SpecialNumbersSolution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nestedLoops/nestedLoopsPractice/P05SpecialNumbersSolution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nested/loops/practice/P05SpecialNumbersSolution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopLab/P01ReadText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/lab/P01ReadText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopLab/P02Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/lab/P02Password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopLab/P03SumNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/lab/P03SumNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopLab/P04Sequence2kPlus1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/lab/P04Sequence2kPlus1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopLab/P05AccountBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/lab/P05AccountBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopLab/P06MaxNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/lab/P06MaxNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopLab/P07MinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/lab/P07MinNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopLab/P08Graduation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/lab/P08Graduation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopPractice/P01OldBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/practice/P01OldBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopPractice/P02ExamPreparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/practice/P02ExamPreparation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopPractice/P03Vacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/practice/P03Vacation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopPractice/P04Walking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/practice/P04Walking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopPractice/P05Coins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/practice/P05Coins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopPractice/P06Cake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/practice/P06Cake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop/whileLoopPractice/P07Moving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/while/loop/practice/P07Moving.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,13 +238,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673262591727</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Java Practice from SoftUni: Conditional Statements Advanced Practice (Additional Exercises) P02">
-      <created>1674913216136</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1674913216136</updated>
     </task>
     <task id="LOCAL-00007" summary="Java Practice from SoftUni: For Loop Lab P01">
       <created>1675064930839</created>
@@ -480,11 +575,17 @@
       <option name="project" value="LOCAL" />
       <updated>1677140918553</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Java Practice from SoftUni: Nested Loops Practice P05 (Solution 2)">
+      <created>1677141027942</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1677141027942</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Practice from SoftUni: While Loop Lab P01" />
     <MESSAGE value="Java Practice from SoftUni: While Loop Lab P02" />
     <MESSAGE value="Java Practice from SoftUni: While Loop Lab P03" />
     <MESSAGE value="Java Practice from SoftUni: While Loop Lab P04" />
@@ -509,68 +610,69 @@
     <MESSAGE value="Java Practice from SoftUni: Nested Loops Practice P03" />
     <MESSAGE value="Java Practice from SoftUni: Nested Loops Practice P04" />
     <MESSAGE value="Java Practice from SoftUni: Nested Loops Practice P05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Nested Loops Practice P05" />
+    <MESSAGE value="Java Practice from SoftUni: Nested Loops Practice P05 (Solution 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Nested Loops Practice P05 (Solution 2)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsLab/P01ExcellentResult.java</url>
+          <url>file://$PROJECT_DIR$/src/conditional/statements/lab/P01ExcellentResult.java</url>
           <line>13</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsPractice/P03TimePlus15Minutes.java</url>
+          <url>file://$PROJECT_DIR$/src/conditional/statements/practice/P03TimePlus15Minutes.java</url>
           <line>21</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsPractice/P07Shopping.java</url>
+          <url>file://$PROJECT_DIR$/src/conditional/statements/practice/P07Shopping.java</url>
           <line>39</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsPractice/P06WorldSwimmingRecord.java</url>
+          <url>file://$PROJECT_DIR$/src/conditional/statements/practice/P06WorldSwimmingRecord.java</url>
           <line>44</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsPractice/P08LunchBreak.java</url>
+          <url>file://$PROJECT_DIR$/src/conditional/statements/practice/P08LunchBreak.java</url>
           <line>35</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/conditionalStatements/conditionalStatementsPractice/P08LunchBreak.java</url>
+          <url>file://$PROJECT_DIR$/src/conditional/statements/practice/P08LunchBreak.java</url>
           <line>33</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedLab/P05SmallShop.java</url>
+          <url>file://$PROJECT_DIR$/src/conditional/statements/advanced/lab/P05SmallShop.java</url>
           <line>20</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedPractice/P03NewHouse.java</url>
+          <url>file://$PROJECT_DIR$/src/conditional/statements/advanced/practice/P03NewHouse.java</url>
           <line>84</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedPractice/P03NewHouse.java</url>
+          <url>file://$PROJECT_DIR$/src/conditional/statements/advanced/practice/P03NewHouse.java</url>
           <line>36</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedPractice/P04FishingBoat.java</url>
+          <url>file://$PROJECT_DIR$/src/conditional/statements/advanced/practice/P04FishingBoat.java</url>
           <line>42</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedPractice/P09SkiTrip.java</url>
+          <url>file://$PROJECT_DIR$/src/conditional/statements/advanced/practice/P09SkiTrip.java</url>
           <line>70</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/conditionalStatementsAdvanced/conditionalStatementsAdvancedAdditionalExercises/P01MatchTickets.java</url>
+          <url>file://$PROJECT_DIR$/src/conditional/statements/advanced/additional/exercises/P01MatchTickets.java</url>
           <line>67</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
