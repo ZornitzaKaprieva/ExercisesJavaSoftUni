@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Exam Preparation(Club)" />
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Exam Preparation(EasterBakery)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,13 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673262591727</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Java Practice from SoftUni: For Loop Lab P03">
-      <created>1675076991824</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1675076991824</updated>
     </task>
     <task id="LOCAL-00010" summary="Java Practice from SoftUni: &#10;organizing packages">
       <created>1675077589093</created>
@@ -480,11 +473,17 @@
       <option name="project" value="LOCAL" />
       <updated>1677336014300</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Java Practice from SoftUni: Exam Preparation(EasterBakery)">
+      <created>1677785252241</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1677785252241</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Practice from SoftUni: While Loop Lab P04" />
     <MESSAGE value="Java Practice from SoftUni: While Loop Lab P05" />
     <MESSAGE value="Java Practice from SoftUni: While Loop Lab P06" />
     <MESSAGE value="Java Practice from SoftUni: While Loop Lab P07" />
@@ -509,7 +508,8 @@
     <MESSAGE value="Java Practice from SoftUni: Nested Loops Practice P05 (Solution 2)" />
     <MESSAGE value="Java Practice from SoftUni: Packages have been edited" />
     <MESSAGE value="Java Practice from SoftUni: Exam Preparation(Club)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Exam Preparation(Club)" />
+    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(EasterBakery)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Exam Preparation(EasterBakery)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
