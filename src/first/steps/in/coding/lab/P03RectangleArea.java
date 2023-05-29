@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /*Да се напише конзолна програма, която въвежда две цели числа (страните на правоъгълника a и b)
 и пресмята лицето на правоъгълник с тези страни.*/
+
 public class P03RectangleArea {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -13,6 +14,5 @@ public class P03RectangleArea {
         int area = a * b;
 
         System.out.println(area);
-
     }
 }
