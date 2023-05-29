@@ -6,6 +6,7 @@ import java.util.Scanner;
 и пресмята лицето на трапец с основи b1 и b2 и височина h. Формулата за лице на трапец е (b1 + b2) * h / 2.
 Отговорът трябва да е форматиран до втората цифра след десетичния знак.
 */
+
 public class P01TrapeziodArea {
 
     public static void main(String[] args) {
