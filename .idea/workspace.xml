@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Exam Preparation(EasterBakery)" />
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P04)">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,71 +32,71 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/QA/domashni i upravneniq/Java/ExercisesJavaSoftUni&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "last_opened_file_path": "D:/QA/domashni i upravneniq/Java/ExercisesJavaSoftUni",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\QA\domashni i upravneniq\Java\ExercisesJavaSoftUni\src\forLoopLab" />
       <recent name="D:\QA\domashni i upravneniq\Java\ExercisesJavaSoftUni\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="first.steps.in.coding.additinal.exercises" />
       <recent name="exam.preparation" />
       <recent name="nestedLoops.nestedLoopsPractice" />
       <recent name="nestedLoops.nestedLoopsLab" />
       <recent name="nestedLoopsLab" />
-      <recent name="whileLoop.whileLoopPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P10OddEvenSum">
+  <component name="RunManager" selected="Application.P02Passed">
+    <configuration name="FitnessCenter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.preparation.FitnessCenter" />
+      <module name="ExercisesJavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam.preparation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P01StudentInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics.P01StudentInformation" />
+      <module name="ExercisesJavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P02Passed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics.P02Passed" />
+      <module name="ExercisesJavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P04EvenPowersof2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="forLoop.forLoopLab.P04EvenPowersof2" />
-      <module name="ExercisesJavaSoftUni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="forLoop.forLoopLab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P07SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forLoop.forLoopLab.P07SumNumbers" />
-      <module name="ExercisesJavaSoftUni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="forLoop.forLoopLab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P08NumberSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forLoop.forLoopLab.P08NumberSequence" />
-      <module name="ExercisesJavaSoftUni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="forLoop.forLoopLab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P09LeftAndRightSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forLoop.forLoopLab.P09LeftAndRightSum" />
       <module name="ExercisesJavaSoftUni" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P02Passed" />
+        <item itemvalue="Application.P01StudentInformation" />
+        <item itemvalue="Application.FitnessCenter" />
         <item itemvalue="Application.P10OddEvenSum" />
         <item itemvalue="Application.P04EvenPowersof2" />
-        <item itemvalue="Application.P09LeftAndRightSum" />
-        <item itemvalue="Application.P08NumberSequence" />
-        <item itemvalue="Application.P07SumNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -136,97 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673262591727</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Java Practice from SoftUni: &#10;organizing packages">
-      <created>1675077589093</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1675077589093</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Java Practice from SoftUni: P04">
-      <created>1675156271994</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1675156271994</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Java Practice from SoftUni: For Loop Lab P04">
-      <created>1675156433614</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1675156433614</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Java Practice from SoftUni: For Loop Lab P05">
-      <created>1675156519158</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1675156519158</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Java Practice from SoftUni: For Loop Lab P06">
-      <created>1675156720665</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1675156720665</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Java Practice from SoftUni: For Loop Lab P07">
-      <created>1675264005884</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1675264005884</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Java Practice from SoftUni: For Loop Lab P08">
-      <created>1675264072677</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1675264072677</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Java Practice from SoftUni: For Loop Lab P09">
-      <created>1675264138980</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1675264138980</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Java Practice from SoftUni: For Loop Lab P10">
-      <created>1675264196708</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1675264196708</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Java Practice from SoftUni: organizing packages">
-      <created>1675353769395</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1675353769395</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Java Practice from SoftUni: For Loop Pracitce P01">
-      <created>1675353919868</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1675353919868</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Java Practice from SoftUni: For Loop Pracitce P01">
-      <created>1675354027452</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1675354027452</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Java Practice from SoftUni: For Loop Pracitce P02">
-      <created>1675354082540</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1675354082540</updated>
     </task>
     <task id="LOCAL-00023" summary="Java Practice from SoftUni: For Loop Practice P03">
       <created>1675519473571</created>
@@ -480,23 +392,101 @@
       <option name="project" value="LOCAL" />
       <updated>1677785252241</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Java Practice from SoftUni: Exam Preparation(EasterCompetition)">
+      <created>1677785548091</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1677785548092</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Java Practice from SoftUni: Exam Preparation(EasterLunch)">
+      <created>1678451546033</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1678451546033</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Java Practice from SoftUni: Exam Preparation(EasterParty)">
+      <created>1678451589752</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1678451589752</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Java Practice from SoftUni: Exam Preparation(FitnessCenter)">
+      <created>1678451700687</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1678451700687</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Java Practice from SoftUni: Exam Preparation(FruitMarket)">
+      <created>1678451753942</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1678451753942</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Java Practice from SoftUni: Exam Preparation(PoolDay)">
+      <created>1678696092661</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1678696092661</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Java Practice from SoftUni: Exam Preparation(Safari)">
+      <created>1678696129872</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1678696129872</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Java Practice from SoftUni: Exam Preparation(TennisEquipment)">
+      <created>1678696192558</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1678696192558</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Java Practice from SoftUni: Exam Preparation(TravelAgency)">
+      <created>1678696238172</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1678696238173</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P01)">
+      <created>1678886398000</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1678886398000</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P02)">
+      <created>1678886434201</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1678886434201</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P03)">
+      <created>1678886468372</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1678886468372</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P04)">
+      <created>1678975305736</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1678975305737</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Practice from SoftUni: While Loop Lab P05" />
-    <MESSAGE value="Java Practice from SoftUni: While Loop Lab P06" />
-    <MESSAGE value="Java Practice from SoftUni: While Loop Lab P07" />
-    <MESSAGE value="Java Practice from SoftUni: While Loop Lab P08" />
-    <MESSAGE value="Java Practice from SoftUni: While Loop Practice P01" />
-    <MESSAGE value="Java Practice from SoftUni: While Loop Practice P02" />
-    <MESSAGE value="Java Practice from SoftUni: While Loop Practice P03" />
-    <MESSAGE value="Java Practice from SoftUni: While Loop Practice P04" />
-    <MESSAGE value="Java Practice from SoftUni: While Loop Practice P05" />
-    <MESSAGE value="Java Practice from SoftUni: While Loop Practice P06" />
-    <MESSAGE value="Java Practice from SoftUni: While Loop Practice P07" />
-    <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P01" />
-    <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P02" />
     <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P03" />
     <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P04" />
     <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P05" />
@@ -509,7 +499,20 @@
     <MESSAGE value="Java Practice from SoftUni: Packages have been edited" />
     <MESSAGE value="Java Practice from SoftUni: Exam Preparation(Club)" />
     <MESSAGE value="Java Practice from SoftUni: Exam Preparation(EasterBakery)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Exam Preparation(EasterBakery)" />
+    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(EasterCompetition)" />
+    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(EasterLunch)" />
+    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(EasterParty)" />
+    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(FitnessCenter)" />
+    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(FruitMarket)" />
+    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(PoolDay)" />
+    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(Safari)" />
+    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(TennisEquipment)" />
+    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(TravelAgency)" />
+    <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P01)" />
+    <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P02)" />
+    <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P03)" />
+    <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P04)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P04)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

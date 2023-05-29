@@ -1,4 +1,4 @@
-package first.steps.in.coding.additinal.exercises;
+package first.steps.in.coding.additional.exercises;
 
 import java.util.Scanner;
 
