@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P04)">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding (P01)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,16 +29,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "last_opened_file_path": "D:/QA/domashni i upravneniq/Java/ExercisesJavaSoftUni",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/QA/domashni i upravneniq/Java/ExercisesJavaSoftUni&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\QA\domashni i upravneniq\Java\ExercisesJavaSoftUni\src\forLoopLab" />
@@ -139,20 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673262591727</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Java Practice from SoftUni: For Loop Practice P03">
-      <created>1675519473571</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1675519473571</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Java Practice from SoftUni: For Loop Practice P04">
-      <created>1675519554298</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1675519554298</updated>
     </task>
     <task id="LOCAL-00025" summary="Java Practice from SoftUni: For Loop Practice P05">
       <created>1675519632255</created>
@@ -483,12 +466,24 @@
       <option name="project" value="LOCAL" />
       <updated>1678975305737</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding">
+      <created>1685339022305</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1685339022305</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding (P01)">
+      <created>1685339192261</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1685339192261</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P03" />
-    <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P04" />
     <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P05" />
     <MESSAGE value="Java Practice from SoftUni: Nested Loops Lab P06" />
     <MESSAGE value="Java Practice from SoftUni: Nested Loops Practice P02" />
@@ -512,7 +507,9 @@
     <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P02)" />
     <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P03)" />
     <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P04)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P04)" />
+    <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding" />
+    <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding (P01)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding (P01)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
