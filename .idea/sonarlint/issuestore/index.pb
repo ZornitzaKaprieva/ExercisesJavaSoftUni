@@ -54,8 +54,6 @@ W
 'src/for/loop/pracitce/P03Histogram.java,9\5\9569ac1566e7082a38af1e3192eb7dc1cfb5a915
 m
 =src/conditional/statements/advanced/practice/P03NewHouse.java,3\7\375f631d6a82249cc170710d54b23b9786586662
-c
-3src/first/steps/in/coding/lab/P03RectangleArea.java,e\9\e90845275b5b8673288902313609b717fd1f9a6e
 U
 %src/while/loop/lab/P03SumNumbers.java,3\9\39a2fefe70778909fb3e76705652c5e29216f119
 b
@@ -212,3 +210,5 @@ Y
 )src/exam/preparation/TennisEquipment.java,8\a\8aa7400973dab6de0953a0aee76b975ebc4b4127
 V
 &src/exam/preparation/TravelAgency.java,d\d\dd63e99752d39aec33b9f785f1599b522ad55271
+s
+Csrc/first/steps/in/coding/additional/exercises/P02TriangleArea.java,5\d\5dc1a92dd94ddf4fd3a270f7dc71231a28b0b778
