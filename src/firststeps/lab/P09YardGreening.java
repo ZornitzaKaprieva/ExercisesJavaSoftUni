@@ -9,8 +9,8 @@ package firststeps.lab;
 1.	Кв. метри, които ще бъдат озеленени – реално число в интервала [0.00 … 10000.00]
 Изход: На конзолата се отпечатват два реда:
 •	"The final price is: {крайна цена на услугата} lv."
-•	"The discount is: {отстъпка} lv."
-*/
+•	"The discount is: {отстъпка} lv."*/
+
 import java.util.Scanner;
 
 public class P09YardGreening {
@@ -24,7 +24,5 @@ public class P09YardGreening {
         double finalPrice = price - discount;
 
         System.out.printf("The final price is: %.2f lv.\nThe discount is: %.2f lv.", finalPrice, discount);
-
-
     }
 }
