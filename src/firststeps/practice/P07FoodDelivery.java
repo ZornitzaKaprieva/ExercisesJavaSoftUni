@@ -1,5 +1,7 @@
 package firststeps.practice;
 
+import java.util.Scanner;
+
 /*Ресторант отваря врати и предлага няколко менюта на преференциални цени:
 •	Пилешко меню –  10.35 лв.
 •	Меню с риба – 12.40 лв.
@@ -13,12 +15,11 @@ package firststeps.practice;
 •	Брой менюта с риба – цяло число в интервала [0 … 99]
 •	Брой вегетариански менюта – цяло число в интервала [0 … 99]
 Изход
-Да се отпечата на конзолата един ред:  "{цена на поръчката}"
-*/
-import java.util.Scanner;
+Да се отпечата на конзолата един ред:  "{цена на поръчката}"*/
 
 public class P07FoodDelivery {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         int chickenMenu = Integer.parseInt(scanner.nextLine());
