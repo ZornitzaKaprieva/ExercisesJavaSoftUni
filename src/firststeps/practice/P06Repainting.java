@@ -1,5 +1,7 @@
 package firststeps.practice;
 
+import java.util.Scanner;
+
 /*Румен иска да пребоядиса хола и за целта е наел майстори.
 Напишете програма, която изчислява разходите за ремонта, предвид следните цени:
 •	Предпазен найлон - 1.50 лв. за кв. метър
@@ -14,12 +16,11 @@ package firststeps.practice;
 3.	Количество разредител (в литри) - цяло число в интервала [1…30]
 4.	Часовете, за които майсторите ще свършат работата - цяло число в интервала [1…9]
 Изход: Да се отпечата на конзолата един ред:
-•	"{сумата на всички разходи}"
-*/
-import java.util.Scanner;
+•	"{сумата на всички разходи}"*/
 
 public class P06Repainting {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         int neededNylon = Integer.parseInt(scanner.nextLine());
@@ -38,6 +39,5 @@ public class P06Repainting {
         double allCosts = purchase + payForWork;
 
         System.out.println(allCosts);
-
     }
 }
