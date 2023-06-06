@@ -2,9 +2,11 @@ package conditionalstatements.lab;
 
 import java.util.Scanner;
 
-/*Да се напише програма, която чете две цели числа, въведени от потребителя и отпечатва по-голямото от двете. */
+/*Да се напише програма, която чете две цели числа, въведени от потребителя, и отпечатва по-голямото от двете.*/
+
 public class P02GreaterNumber {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         int number1 = Integer.parseInt(scanner.nextLine());
@@ -16,5 +18,4 @@ public class P02GreaterNumber {
             System.out.println(number2);
         }
     }
-
 }
