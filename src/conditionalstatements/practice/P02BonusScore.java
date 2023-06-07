@@ -10,10 +10,11 @@ import java.util.Scanner;
 
 •	Допълнителни бонус точки (начисляват се отделно от предходните):
 o	За четно число  + 1 т.
-o	За число, което завършва на 5  + 2 т.
-*/
+o	За число, което завършва на 5  + 2 т.*/
+
 public class P02BonusScore {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         int number = Integer.parseInt(scanner.nextLine());
