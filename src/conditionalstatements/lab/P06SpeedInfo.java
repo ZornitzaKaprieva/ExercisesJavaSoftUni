@@ -8,13 +8,14 @@ import java.util.Scanner;
 •	При скорост над 10 и до 50 (включително) отпечатайте "average"
 •	При скорост над 50 и до 150 (включително) отпечатайте "fast"
 •	При скорост над 150 и до 1000 (включително) отпечатайте "ultra fast"
-•	При по-висока скорост отпечатайте "extremely fast"
-*/
+•	При по-висока скорост отпечатайте "extremely fast"*/
+
 public class P06SpeedInfo {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
+        
         double speed = Double.parseDouble(scanner.nextLine());
-
 
         if (speed <= 10) {
             System.out.println("slow");
