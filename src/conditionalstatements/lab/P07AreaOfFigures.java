@@ -15,11 +15,13 @@ import java.util.Scanner;
 на следващия ред чете едно дробно число - радиусът на кръга
 •	Ако фигурата е триъгълник (triangle):
 на следващите два реда четат две дробни числа - дължината на страната му и дължината на височината към нея
-Резултатът да се закръгли до 3 цифри след десетичната запетая.
-*/
+Резултатът да се закръгли до 3 цифри след десетичната запетая.*/
+
 public class P07AreaOfFigures {
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
+
         String figure = scanner.nextLine();
 
         switch (figure) {
@@ -27,7 +29,7 @@ public class P07AreaOfFigures {
                 System.out.println("square");
                 if (figure.equals("square")) {
                     double sideSquare = Double.parseDouble(scanner.nextLine());
-                    double area = sideSquare * sideSquare; //важи само за този иф
+                    double area = sideSquare * sideSquare; 
                     System.out.printf("%.3f", area);
                 }
                 break;
@@ -35,32 +37,31 @@ public class P07AreaOfFigures {
             case "rectangle": {
                 System.out.println("rectangle");
                 if (figure.equals("rectangle")) {
-            double side1 = Double.parseDouble(scanner.nextLine());
-            double side2 = Double.parseDouble(scanner.nextLine());
-            double area = side1 * side2;
-            System.out.printf("%.3f", area);
+                    double side1 = Double.parseDouble(scanner.nextLine());
+                    double side2 = Double.parseDouble(scanner.nextLine());
+                    double area = side1 * side2;
+                    System.out.printf("%.3f", area);
                 }
                 break;
             }
             case "circle": {
                 System.out.println("circle");
                 if (figure.equals("circle")) {
-            double radius = Double.parseDouble(scanner.nextLine());
-            double area = Math.PI * (radius*radius);
-            System.out.printf("%.3f", area);
-        }
+                    double radius = Double.parseDouble(scanner.nextLine());
+                    double area = Math.PI * (radius*radius);
+                    System.out.printf("%.3f", area);
+                }
                 break;
             }
             case "triangle": {
                 System.out.println("triangle");
                 if (figure.equals("triangle")) {
-            double sideT1 = Double.parseDouble(scanner.nextLine());
-            double sideT2 = Double.parseDouble(scanner.nextLine());
-            double area = (sideT1*sideT2)/2;
-            System.out.printf("%.3f", area);
-        }
+                    double sideT1 = Double.parseDouble(scanner.nextLine());
+                    double sideT2 = Double.parseDouble(scanner.nextLine());
+                    double area = (sideT1 * sideT2)/2;
+                    System.out.printf("%.3f", area);
+                }
                 break;
-
             }
         }
     }
