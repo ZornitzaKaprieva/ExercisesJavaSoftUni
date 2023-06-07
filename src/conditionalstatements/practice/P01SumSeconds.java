@@ -6,8 +6,10 @@ import java.util.Scanner;
 Да се напише програма, която чете времената на състезателите в секунди, въведени от потребителя
 и пресмята сумарното им време във формат "минути:секунди".
 Секундите да се изведат с водеща нула (2  "02", 7  "07", 35  "35"). */
+
 public class P01SumSeconds {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         int player1 = Integer.parseInt(scanner.nextLine());
