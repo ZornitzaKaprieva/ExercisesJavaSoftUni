@@ -23,10 +23,11 @@ o	"Wingard needs {парите недостигащи за филма} leva more
 •	Ако парите за декора и дрехите са по малко или равни на бюджета:
 o	"Action!"
 o	"Wingard starts filming with {останалите пари} leva left."
-Резултатът трябва да е форматиран до втория знак след десетичната запетая.
-*/
+Резултатът трябва да е форматиран до втория знак след десетичната запетая.*/
+
 public class P05GodzillaVSKong {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         double filmBudget = Double.parseDouble(scanner.nextLine());
@@ -48,9 +49,5 @@ public class P05GodzillaVSKong {
         } else {
             System.out.printf("Action!\nWingard starts filming with %.2f leva left.\n", differnce);
         }
-
-
-
-
     }
 }
