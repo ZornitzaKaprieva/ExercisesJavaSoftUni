@@ -1,5 +1,7 @@
 package firststeps.practice;
 
+import java.util.Scanner;
+
 /*За рождения си ден Любомир получил аквариум с формата на паралелепипед.
 Първоначално прочитаме от конзолата на отделни редове размерите му – дължина, широчина и височина в сантиметри.
 Трябва да се пресметне колко литра вода ще събира аквариума,
@@ -12,13 +14,11 @@ package firststeps.practice;
 3.	Височина в см – цяло число в интервала [10… 200]
 4.	Процент  – реално число в интервала [0.000 … 100.000]
 Изход: Да се отпечата на конзолата едно число:
-•	литрите вода, които ще събира аквариума.
-*/
-
-import java.util.Scanner;
+•	литрите вода, които ще събира аквариума.*/
 
 public class P09FishTank {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         int length = Integer.parseInt(scanner.nextLine());
@@ -33,6 +33,5 @@ public class P09FishTank {
         double neededLiters = fishTankVolumeInLiters * (1 - occupiedSpase); //1 е цялото количество. Вадим от цялото количество
 
         System.out.println(neededLiters);
-
     }
 }

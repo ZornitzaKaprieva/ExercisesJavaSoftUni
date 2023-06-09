@@ -22,11 +22,12 @@ import java.util.Scanner;
 "You have {остатъчен бюджет} leva left!"
 •	Ако сумата надхвърля бюджета:
 "Not enough money! You need {нужна сума} leva more!"
-Резултатът да се форматира до втория знак след десетичната запетая.
-*/
+Резултатът да се форматира до втория знак след десетичната запетая.*/
+
 public class P07Shopping {
 
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         double budget = Double.parseDouble(scanner.nextLine());
@@ -43,8 +44,6 @@ public class P07Shopping {
         }
         double moneyLeft =  budget - overallSum;
         double neededMoney = Math.abs(budget - overallSum);
-
-
 
         if (budget >= overallSum){
             System.out.printf("You have %.2f leva left!", moneyLeft);

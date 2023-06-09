@@ -1,5 +1,7 @@
 package firststeps.practice;
 
+import java.util.Scanner;
+
 /*Учебната година вече е започнала и отговорничката на 10Б клас - Ани
 трябва да купи определен брой пакетчета с химикали, пакетчета с маркери, както и препарат за почистване на дъска.
 Тя е редовна клиентка на една книжарница, затова има намаление за нея, което представлява някакъв процент от общата сума.
@@ -13,12 +15,11 @@ package firststeps.practice;
 •	Брой пакети маркери - цяло число в интервала [0...100]
 •	Литри препарат за почистване на дъска - цяло число в интервала [0…50]
 •	Процент намаление - цяло число в интервала [0...100]
-Изход: Да се отпечата на конзолата колко пари ще са нужни на Ани, за да си плати сметката.
-*/
-import java.util.Scanner;
+Изход: Да се отпечата на конзолата колко пари ще са нужни на Ани, за да си плати сметката.*/
 
 public class P05SuppliesForSchool {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         int howManyPens = Integer.parseInt(scanner.nextLine());
@@ -36,9 +37,5 @@ public class P05SuppliesForSchool {
         double finalSum = purchaseSum - finalDiscount;
 
         System.out.println(finalSum);
-
-
-
-
     }
 }

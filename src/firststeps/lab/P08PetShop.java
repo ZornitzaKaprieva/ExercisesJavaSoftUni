@@ -8,9 +8,8 @@ import java.util.Scanner;
 Вход: От конзолата се четат 2 реда:
 1.	Броят на опаковките храна за кучета – цяло число в интервала [0… 100]
 2.	Броят на опаковките храна за котки –  цяло число в интервала [0… 100]
-Изход: На конзолата се отпечатва:
-"{крайната сума} lv."
-*/
+Изход: На конзолата се отпечатва: "{крайната сума} lv."*/
+
 public class P08PetShop {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -24,7 +23,5 @@ public class P08PetShop {
         double sum = dogFoodPrice + catFoodPrice;
 
         System.out.printf(" %.2f lv.", sum);
-
-
     }
 }

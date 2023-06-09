@@ -1,6 +1,7 @@
 package firststeps.lab;
 
 //Напишете Java конзолна програма, която отпечатва числата от 1 до 10 на отделни редове на конзолата.
+
 public class P02Nums1To10 {
     public static void main(String[] args) {
         System.out.println(1);

@@ -10,10 +10,11 @@ import java.util.Scanner;
 1.	Името на архитекта - текст
 2.	Брой на проектите, които трябва да изготви - цяло число в интервала [0 … 100]
 
-Изход:  На конзолата се отпечатва: "The architect {името на архитекта} will need {необходими часове} hours to complete {брой на проектите} project/s."
-*/
+Изход:  На конзолата се отпечатва: "The architect {името на архитекта} will need {необходими часове} hours to complete {брой на проектите} project/s."*/
+
 public class P07ProjectsCreation {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         String name = scanner.nextLine();
@@ -22,7 +23,5 @@ public class P07ProjectsCreation {
         int hours = projects * 3;
 
         System.out.printf("The architect %s will need %d hours to complete %d project/s.", name, hours, projects);
-
-
     }
 }
