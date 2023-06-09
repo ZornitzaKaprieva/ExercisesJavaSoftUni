@@ -41,6 +41,7 @@ public class CinemaVoucher {
                 } else {
                     ticketCount++;
                 }
+
             } else {
                 sum += currentPurchase.charAt(0);
                 if(sum > voucherValue){
