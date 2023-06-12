@@ -11,10 +11,11 @@ Plovdiv	5.5%	            8%	                    12%	                    14.5%
 име на град (текст) и обем на продажби (реално число) , въведени от потребителя,
 и изчислява и извежда размера на търговската комисионна според горната таблица.
 Резултатът да се изведе форматиран до 2 цифри след десетичната точка.
-При невалиден град или обем на продажбите (отрицателно число) да се отпечата "error".
-*/
+При невалиден град или обем на продажбите (отрицателно число) да се отпечата "error".*/
+
 public class P12TradeCommissions {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         String city = scanner.nextLine();
@@ -35,9 +36,7 @@ public class P12TradeCommissions {
             } else {
                 commission = s * 0.12;
             }
-
         } else if (city.equals("Varna")) {
-
             if (s <= 500) {
                 commission = s * 0.045;
             } else if (s > 500 && s <= 1000) {
@@ -47,9 +46,7 @@ public class P12TradeCommissions {
             } else {
                 commission = s * 0.13;
             }
-
         } else if (city.equals("Plovdiv")) {
-
             if (s <= 500) {
                 commission = s * 0.055;
             } else if (s > 500 && s <= 1000) {
@@ -66,7 +63,5 @@ public class P12TradeCommissions {
         } else {
             System.out.printf("%.2f", commission);
         }
-
-
     }
 }
