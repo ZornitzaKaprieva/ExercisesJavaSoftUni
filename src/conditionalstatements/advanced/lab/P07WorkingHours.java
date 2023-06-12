@@ -5,6 +5,7 @@ import java.util.Scanner;
 /*Да се напише програма, която чете час от денонощието(цяло число) и ден от седмицата(текст) -
 въведени от потребителя и проверява дали офисът на фирма е отворен,
 като работното време на офисът е от 10-18 часа, от понеделник до събота включително*/
+
 public class P07WorkingHours {
     public static void main(String[] args) {
 
@@ -13,8 +14,7 @@ public class P07WorkingHours {
         int hour = Integer.parseInt(scanner.nextLine());
         String day = scanner.nextLine();
 
-        //solution 1 (switch)
-
+        //solution 1 (switch):
         switch (day){
             case "Monday":
             case "Tuesday":
@@ -32,21 +32,20 @@ public class P07WorkingHours {
                 System.out.println("closed");
         }
 
-        //solution 2 (boolean){
+        //solution 2 (boolean):
+//         boolean isWorkingDays = day.equals("Monday") ||
+//                 day.equals("Tuesday") ||
+//                 day.equals("Wednesday") ||
+//                 day.equals("Thursday") ||
+//                 day.equals("Friday") ||
+//                 day.equals("Saturday"); //ако някоя стойност е налична = true
 
-        boolean isWorkingDays = day.equals("Monday") ||
-                day.equals("Tuesday") ||
-                day.equals("Wednesday") ||
-                day.equals("Thursday") ||
-                day.equals("Friday") ||
-                day.equals("Saturday"); //ако някоя стойност е налична = true
+//         boolean isWorkingHours = hour >= 10 && hour <= 18;
 
-        boolean isWorkingHours = hour >= 10 && hour <= 18;
-
-        if (isWorkingDays && isWorkingHours) {
-            System.out.println("open");
-        }else {
-            System.out.println("closed");
-        }
+//         if (isWorkingDays && isWorkingHours) {
+//             System.out.println("open");
+//         }else {
+//             System.out.println("closed");
+//         }
     }
 }
