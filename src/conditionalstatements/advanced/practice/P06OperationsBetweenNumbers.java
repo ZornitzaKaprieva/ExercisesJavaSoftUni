@@ -24,10 +24,11 @@ o	"{N1} / {N2} = {резултат}" – резултатът е формати�
 •	Ако операцията е деление с остатък:
 o	"{N1} % {N2} = {остатък}"
 •	В случай на деление с 0 (нула):
-o	"Cannot divide {N1} by zero"
-*/
+o	"Cannot divide {N1} by zero"*/
+
 public class P06OperationsBetweenNumbers {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         int number1 = Integer.parseInt(scanner.nextLine()); //[0...40 000]
