@@ -19,14 +19,15 @@ import java.util.Scanner;
 Да се отпечатат на конзолата 2 реда:
 •	На първия ред: "Apartment: {цена за целият престой} lv."
 •	На втория ред: "Studio: {цена за целият престой} lv."
-Цената за целия престой форматирана с точност до два знака след десетичната запетая.
-*/
+Цената за целия престой форматирана с точност до два знака след десетичната запетая.*/
+
 public class P07HotelRoom {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
 
         String month = scanner.nextLine(); //May, June, July, August, September или October
-        int numberOfOvernight = Integer.parseInt(scanner.nextLine()); //[0 ... 200]
+        int numberOfOvernight = Integer.parseInt(scanner.nextLine());
 
         double priceStudio = 0;
         double priceApartment = 0;
@@ -36,15 +37,12 @@ public class P07HotelRoom {
             case "October":
                 priceStudio = numberOfOvernight * 50;
                 priceApartment = numberOfOvernight * 65;
-
                 if (numberOfOvernight > 7 && numberOfOvernight <= 14) {
                     priceStudio = priceStudio * 0.95;
-            } else if (numberOfOvernight > 14) {
+                } else if (numberOfOvernight > 14) {
                     priceStudio = priceStudio * 0.7;
                     priceApartment = priceApartment * 0.9;
                 }
-
-
                 break;
             case "June":
             case "September":
@@ -55,7 +53,6 @@ public class P07HotelRoom {
                     priceStudio = priceStudio * 0.8;
                     priceApartment = priceApartment * 0.9;
                 }
-
                 break;
             case "July":
             case "August":
@@ -65,11 +62,8 @@ public class P07HotelRoom {
                     priceApartment = priceApartment * 0.9;
                 }
                 break;
-                }
-
-        System.out.printf("Apartment: %.2f lv.\nStudio: %.2f lv.", priceApartment, priceStudio);
         }
 
-
-
+        System.out.printf("Apartment: %.2f lv.\nStudio: %.2f lv.", priceApartment, priceStudio);
     }
+}
