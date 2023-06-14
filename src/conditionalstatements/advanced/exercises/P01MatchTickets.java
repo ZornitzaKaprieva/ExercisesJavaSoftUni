@@ -22,19 +22,16 @@ import java.util.Scanner;
 o	"Yes! You have {останалите пари на групата} leva left."
 •	Ако бюджетът НЕ Е достатъчен:
 o	"Not enough money! You need {сумата, която не достига} leva."
-Сумите трябва да са форматирани с точност до два знака след десетичната запетая.
-*/
+Сумите трябва да са форматирани с точност до два знака след десетичната запетая.*/
+
 public class P01MatchTickets {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
-        double budget = Double.parseDouble(scanner.nextLine()); //[1 000.00 ... 1 000 000.00]
+        double budget = Double.parseDouble(scanner.nextLine());
         String cat = scanner.nextLine(); //"VIP" или "Normal"
-        int numberPeople = Integer.parseInt(scanner.nextLine()); // [1 ... 200]
-
-
-        /*double priceVipAllTickets = numberPeople * 499.99;
-        double priceNormalAllTickets  = numberPeople * 249.99;*/
+        int numberPeople = Integer.parseInt(scanner.nextLine());
 
         double overallTicketPrice = 0; //switch
         double priceTransport = 0;    // if
@@ -71,5 +68,4 @@ public class P01MatchTickets {
             System.out.printf("Not enough money! You need %.2f leva.\n", sumLeft);
         }
     }
-
 }
