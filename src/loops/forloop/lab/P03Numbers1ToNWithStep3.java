@@ -11,7 +11,7 @@ public class P03Numbers1ToNWithStep3 {
 
         int n = Integer.parseInt(scanner.nextLine());
 
-        for (int i = 1; i <= n ; i+= 3) { //==i = i + 3
+        for (int i = 1; i <= n ; i+= 3) {
             System.out.println(i);
         }
     }
