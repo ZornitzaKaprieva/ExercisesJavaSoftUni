@@ -5,7 +5,7 @@ package loops.forloop.lab;
 public class P01NumbersFrom1To100 {
     public static void main(String[] args) {
 
-        for (int i = 1; i <= 100; i += 1) { //в случая i+=1; i++; и ++i водят до един и същи резултат, но по принцип !(i++ == ++i)
+        for (int i = 1; i <= 100; i += 1) { // i+=1 == i++;
             System.out.println(i);
         }
     }
