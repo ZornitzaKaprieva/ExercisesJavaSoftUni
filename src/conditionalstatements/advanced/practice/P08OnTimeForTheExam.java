@@ -16,10 +16,11 @@ import java.util.Scanner;
 •	"mm minutes before the start" за идване по-рано с по-малко от час.
 •	"hh:mm hours before the start" за подраняване с 1 час или повече. Минутите винаги печатайте с 2 цифри, например 1:05.
 •	 "mm minutes after the start" за закъснение под час.
-•	"hh:mm hours after the start" за закъснение от 1 час или повече. Минутите винаги печатайте с 2 цифри, например 1:03.
-*/
+•	"hh:mm hours after the start" за закъснение от 1 час или повече. Минутите винаги печатайте с 2 цифри, например 1:03.*/
+
 public class P08OnTimeForTheExam {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         int examHour = Integer.parseInt(scanner.nextLine()); //от 0 до 23.
@@ -54,7 +55,6 @@ public class P08OnTimeForTheExam {
 
             if (examTotalMinutes != arrivalTotalMinutes) {
                 System.out.printf("%d minutes before the start", diff);
-
             }
 
         } else {
@@ -67,6 +67,5 @@ public class P08OnTimeForTheExam {
                 System.out.printf("%d:%02d hours before the start", hour, min);
             }
         }
-
     }
 }
