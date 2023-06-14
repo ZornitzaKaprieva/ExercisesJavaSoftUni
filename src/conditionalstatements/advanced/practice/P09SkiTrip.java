@@ -20,16 +20,17 @@ president apartment	10% от крайната цена	15% от крайната
 •	Трети ред - оценка - "positive"  или "negative"
 Изход
 На конзолата трябва да се отпечата един ред:
-•	Цената за престоят му в хотела, форматирана до втория знак след десетичната запетая.
-*/
+•	Цената за престоят му в хотела, форматирана до втория знак след десетичната запетая.*/
+
 public class P09SkiTrip {
 
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
-        int daysOfStay = Integer.parseInt(scanner.nextLine());//[0...365]
-        String roomType = scanner.nextLine(); //"room for one person", "apartment" или "president apartment"
-        String estimate = scanner.nextLine();; //"positive"  или "negative"
+        int daysOfStay = Integer.parseInt(scanner.nextLine());
+        String roomType = scanner.nextLine(); //"room for one person", "apartment", "president apartment"
+        String estimate = scanner.nextLine();; //"positive", "negative"
 
         int nights = daysOfStay - 1;
         double price = 0;
@@ -38,24 +39,21 @@ public class P09SkiTrip {
             case "room for one person":
                 price = nights * 18;
                 break;
-
             case "apartment":
                 price = nights * 25;
-
+                
                 if (nights < 10){
                     price = price * 0.7;
-
                 } else if (nights >= 10 && nights <= 15) {
                     price = price * 0.65;
                 }
                 else if (nights > 15 ) {
                     price = price * 0.5;
                 }
-
                 break;
             case "president apartment":
                 price = nights * 35;
-
+                
                 if (nights < 10){
                     price = price * 0.9;
                 } else if (nights >= 10 && nights <= 15) {
@@ -64,7 +62,6 @@ public class P09SkiTrip {
                 else {
                     price = price * 0.8;
                 }
-
                 break;
         }
 
@@ -75,6 +72,5 @@ public class P09SkiTrip {
         }
 
         System.out.printf("%.2f", price);
-
     }
 }
