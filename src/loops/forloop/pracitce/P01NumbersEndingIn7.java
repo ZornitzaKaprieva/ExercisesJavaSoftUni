@@ -1,6 +1,7 @@
 package loops.forloop.pracitce;
 
 /*Напишете програма, която отпечатва числата в диапазона от 1 до 1000, които завършват на 7.*/
+
 public class P01NumbersEndingIn7 {
     public static void main(String[] args) {
 
@@ -12,8 +13,8 @@ public class P01NumbersEndingIn7 {
         }
 
 //        //solution 2:
-////        for (int i = 7; i <= 997; i += 10) { //така отпада нуждата от if
-////                System.out.println(i);
-////            }
+//        for (int i = 7; i <= 997; i += 10) { //така отпада нуждата от if
+//                System.out.println(i);
+//            }
         }
     }
