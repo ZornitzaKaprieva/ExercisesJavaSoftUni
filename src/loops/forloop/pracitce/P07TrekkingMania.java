@@ -48,7 +48,6 @@ public class P07TrekkingMania {
             int numberOfPeopleInTheGroup = Integer.parseInt(scanner.nextLine());
             overallNumberOfPeople += numberOfPeopleInTheGroup;
 
-
             if (numberOfPeopleInTheGroup >= 1 && numberOfPeopleInTheGroup <= 5 && isValidNumberOfGroups){
                 counterMusalaGroups++;
                 allPeopleForMusala += numberOfPeopleInTheGroup;
