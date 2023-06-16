@@ -22,10 +22,11 @@ import java.util.Scanner;
 o	"Yes! {N}" - където N е остатъка пари след покупката
 •	Ако парите не са достатъчни:
 o	"No! {М}" - където M е сумата, която не достига
-Числата N и M трябва да за форматирани до вторият знак след десетичната запетая.
-*/
+Числата N и M трябва да за форматирани до вторият знак след десетичната запетая.*/
+
 public class P04CleverLily {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         int age = Integer.parseInt(scanner.nextLine()); //[1...77]
@@ -37,20 +38,12 @@ public class P04CleverLily {
         boolean isValidPriceToy = priceToy >= 0 && priceToy <= 40;
         boolean isValidInput = isValidAge && isValidPriceWashingMachine && isValidPriceToy;
 
-        double overallSumForBirthday = 0; //new
-        //double sumForEvenBirthday = 10 - 1; //към 2ро решение
+        double overallSumForBirthday = 0; 
         double countToys = 0;
-
 
         for (int i = 1; i <= age; i++) { //i == current age
             if (i % 2 == 0) {
                 overallSumForBirthday = overallSumForBirthday + (i * 5 - 1); //защото сме открили закономерност (2x5=10; 4x5=20 i t.n.)
-
-                //това би трябвало да е 2ро решение, но парите, които взима брата не се изчисляват добре
-//                overallSumForBirthday += sumForEvenBirthday;
-//                sumForEvenBirthday += 10;
-//                overallSumForBirthday --;
-
             } else {
                 countToys++;
             }
@@ -60,11 +53,6 @@ public class P04CleverLily {
         double savedMoney = overallSumForBirthday + sumFromToys;
         double diff = Math.abs(priceWashingMachine - savedMoney);
 
-//        System.out.println("Overall money saved: " + overallSumForBirthday);
-//        System.out.println("Overall sum earned from toys: " + sumFromToys);
-//        System.out.println("Overall sum - money + toys: " + savedMoney );
-
-            //print:
         if (savedMoney >= priceWashingMachine && isValidInput) {
             System.out.printf("Yes! %.2f\n", diff);
         } else if (savedMoney < priceWashingMachine && isValidInput){
