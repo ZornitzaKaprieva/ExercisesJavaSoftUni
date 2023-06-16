@@ -22,8 +22,8 @@ o	Точки от оценяващия - реално число в интерв
 "Congratulations, {име на актьора} got a nominee for leading role with {точки}!"
 •	Ако точките не са достатъчни:
 	"Sorry, {име на актьора} you need {нужни точки} more!"
-Резултатът да се форматирана до първата цифра след десетичния знак!
-*/
+Резултатът да се форматирана до първата цифра след десетичния знак!*/
+
 public class P06Oscars {
     public static void main(String[] args) {
 
@@ -51,14 +51,12 @@ public class P06Oscars {
                 System.out.printf("Congratulations, %s got a nominee for leading role with %.1f!", actorName, allPoints);
                 break; //в случая така прекратяваме, защото се е изпълнило условието актьорът да получи 1250.5 точки, без да е свършило самото оценяване
             }
-
         }
 
         if (allPoints < 1250.5 && isValidInput){ //вече имаме if (allPoints >= 1250.5 && isValidInput){ в for цикъла, затова е ненужен тук
             double diff = Math.abs(1250.5 - allPoints);
             System.out.printf("Sorry, %s you need %.1f more!", actorName, diff );
         }
-
     }
 }
 
