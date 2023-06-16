@@ -15,10 +15,11 @@ import java.util.Scanner;
 Изход
 •	Ако по време на проверката заплатата стане по-малка или равна на 0 лева, на конзолата се изписва
 "You have lost your salary." и програмата приключва.
-•	В противен случай след проверката на конзолата се изписва остатъкът от заплатата (да се изпише като цяло число).
-*/
+•	В противен случай след проверката на конзолата се изписва остатъкът от заплатата (да се изпише като цяло число).*/
+
 public class P05Salary {
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
 
         int numberOfOpenTabs = Integer.parseInt(scanner.nextLine()); //[1...10]
