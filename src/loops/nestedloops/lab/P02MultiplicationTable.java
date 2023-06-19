@@ -1,8 +1,8 @@
 package loops.nestedloops.lab;
 
 /*Отпечатайте на конзолата таблицата за умножение за числата от 1 до 10 във формат:
-"{първи множител} * {втори множител} = {резултат}".
-*/
+"{първи множител} * {втори множител} = {резултат}".*/
+
 public class P02MultiplicationTable {
     public static void main(String[] args) {
 
@@ -11,7 +11,6 @@ public class P02MultiplicationTable {
                 int result = m1 * m2;
                 System.out.printf("%d * %d = %d\n", m1, m2, result);
             }
-
         }
     }
 }
