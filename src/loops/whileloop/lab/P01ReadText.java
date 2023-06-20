@@ -3,6 +3,7 @@ package loops.whileloop.lab;
 import java.util.Scanner;
 
 /*Напишете програма, която чете текст от конзолата (стринг) и го принтира, докато не получи командата "Stop".*/
+
 public class P01ReadText {
     public static void main(String[] args) {
 
@@ -11,9 +12,7 @@ public class P01ReadText {
         String inputSomeString = scanner.nextLine();
 
         while (!(inputSomeString.equals("Stop"))) {
-
             System.out.println(inputSomeString);
-
             inputSomeString = scanner.nextLine();
         }
     }
