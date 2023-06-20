@@ -13,8 +13,8 @@ import java.util.Scanner;
  "{името на презентацията} - {средна оценка}."
 След получаване на команда "Finish" на конзолата се печата
 "Student's final assessment is {среден успех от всички презентации}." и програмата приключва.
-Всички оценки трябва да бъдат форматирани до втория знак след десетичната запетая.
-*/
+Всички оценки трябва да бъдат форматирани до втория знак след десетичната запетая.*/
+
 public class P04TrainTheTrainers {
     public static void main(String[] args) {
 
@@ -28,9 +28,7 @@ public class P04TrainTheTrainers {
 
         while (!input.equals("Finish")){
             String presentationTitle = input; //това е за по-добра четимост, не е задължително
-
             double sumGrades = 0;
-
             for (int i = 1; i <= numberJury; i++) {
                 double currentGrade = Double.parseDouble(scanner.nextLine()); //[2.00…6.00]
                 sumGrades += currentGrade;
