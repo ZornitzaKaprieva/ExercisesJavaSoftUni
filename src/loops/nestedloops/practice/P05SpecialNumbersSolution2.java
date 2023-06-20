@@ -14,8 +14,8 @@ import java.util.Scanner;
 Вход
 Входът се чете от конзолата и се състои от едно цяло число в интервала [1…600000]
 Изход
-На конзолата трябва да се отпечатат всички "специални" числа, разделени с интервал
-*/
+На конзолата трябва да се отпечатат всички "специални" числа, разделени с интервал*/
+
 public class P05SpecialNumbersSolution2 {
     public static void main(String[] args) {
 
@@ -31,14 +31,9 @@ public class P05SpecialNumbersSolution2 {
                         if (number % i == 0 && number % j == 0 &&  number % k == 0 && number % l == 0){
                             System.out.printf("%d%d%d%d ", i, j, k, l);
                         }
-
                     }
-
                 }
-
             }
-
         }
-
     }
 }
