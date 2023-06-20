@@ -14,10 +14,10 @@ import java.util.Scanner;
 Вход
 Входът се чете от конзолата и се състои от едно цяло число в интервала [1…600000]
 Изход
-На конзолата трябва да се отпечатат всички "специални" числа, разделени с интервал
-*/
+На конзолата трябва да се отпечатат всички "специални" числа, разделени с интервал.*/
+
 public class P05SpecialNumbersSolution1 {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
 
@@ -35,9 +35,9 @@ public class P05SpecialNumbersSolution1 {
             boolean checkThirdDigit = thirdDigit != 0 && number % thirdDigit == 0; //ноте! не можем да делим на 0
             boolean checkFourthDigit = fourthDigit != 0 && number % fourthDigit == 0;
 
-        if (checkFirstDigit && checkSecondDigit && checkThirdDigit && checkFourthDigit){ //ако тази проверка е вярна, ние трябва да отпечатаме нашето число
-            System.out.printf("%d ", currentNum);
-        }
+            if (checkFirstDigit && checkSecondDigit && checkThirdDigit && checkFourthDigit){ //ако тази проверка е вярна, ние трябва да отпечатаме нашето число
+                System.out.printf("%d ", currentNum);
+            }
         }
     }
 }
