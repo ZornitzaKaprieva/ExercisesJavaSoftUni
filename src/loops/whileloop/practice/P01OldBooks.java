@@ -14,8 +14,8 @@ import java.util.Scanner;
 o	"The book you search is not here!"
 o	"You checked {брой} books."
 •	Ако открие книгата си се отпечатва един ред:
-o	"You checked {брой} books and found it."
-*/
+o	"You checked {брой} books and found it."*/
+
 public class P01OldBooks {
 
     public static void main(String[] args) {
@@ -26,10 +26,8 @@ public class P01OldBooks {
         String inputBook = scanner.nextLine();
 
         int counterBooks = 0;
-
         while (!searchedBook.equals(inputBook)) {
-
-
+            
             if(inputBook.equals("No More Books")) {
                 System.out.printf("The book you search is not here!\nYou checked %d books.\n", counterBooks);
                 break;
