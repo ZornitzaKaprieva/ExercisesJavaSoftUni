@@ -11,8 +11,8 @@ import java.util.Scanner;
 "{име на ученика} graduated. Average grade: {средната оценка от цялото обучение}"
 В случай, че ученикът е изключен от училище, да се отпечата:
 "{име на ученика} has been excluded at {класа, в който е бил изключен} grade"
-Стойността трябва да бъде форматирана до втория знак след десетичната запетая.
-*/
+Стойността трябва да бъде форматирана до втория знак след десетичната запетая.*/
+
 public class P08Graduation {
     public static void main(String[] args) {
 
@@ -25,13 +25,11 @@ public class P08Graduation {
         int year = 1;
 
         while (year <= 12) {
-
-            if (poorGradeCount > 1) { //каунтър за годините с оценки под 4 (не повече от 2 по условие
+            if (poorGradeCount > 1) { //каунтър за годините с оценки под 4 (не повече от 2 по условие)
                 break;
             }
-
+         
             double annualGrade = Double.parseDouble(scanner.nextLine());
-
 
             if (annualGrade < 4) {
                 poorGradeCount++; //каунтър за годините с оценки под 4 нараства с едно
@@ -41,7 +39,6 @@ public class P08Graduation {
             sumGrade +=  annualGrade;
             year++;
         }
-
 
         if (poorGradeCount > 1) {
             System.out.printf("%s has been excluded at %d grade", studentName, year);
