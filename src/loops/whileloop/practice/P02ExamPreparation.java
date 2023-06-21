@@ -20,16 +20,15 @@ o	"Number of problems: {броя на всички задачи}"
 o	"Last problem: {името на последната задача}"
 •	Ако получи определения брой незадоволителни оценки:
 o	"You need a break, {брой незадоволителни оценки} poor grades."
-Средната оценка да бъде форматирана до втория знак след десетичната запетая.
-*/
+Средната оценка да бъде форматирана до втория знак след десетичната запетая.*/
+
 public class P02ExamPreparation {
 
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
 
-        int poorGradesLimit = Integer.parseInt(scanner.nextLine()); //[1…5]
-
+        int poorGradesLimit = Integer.parseInt(scanner.nextLine()); 
 
         int counterPoorGrades = 0; //брояч за незадоволителни оценки
         int counterSolvedProblems = 0; //брояч за решените упражнения
@@ -66,7 +65,6 @@ public class P02ExamPreparation {
         } else {
             System.out.printf("You need a break, %d poor grades.", counterPoorGrades);
         }
-
     }
 }
 
