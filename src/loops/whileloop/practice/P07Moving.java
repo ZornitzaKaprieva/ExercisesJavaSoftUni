@@ -23,10 +23,9 @@ import java.util.Scanner;
 •	Ако стигнете до командата "Done" и има още свободно място:
 "{брой свободни куб. метри} Cubic meters left."
 •	Ако свободното място свърши преди да е дошла команда "Done":
-"No more free space! You need {брой недостигащи куб. метри} Cubic meters more."
-*/
-public class P07Moving {
+"No more free space! You need {брой недостигащи куб. метри} Cubic meters more."*/
 
+public class P07Moving {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -62,7 +61,6 @@ public class P07Moving {
             System.out.printf("%.0f Cubic meters left.\n", leftSpase);
         } else {
             System.out.printf("No more free space! You need %.0f Cubic meters more.", leftSpase);
-
         }
     }
 }
