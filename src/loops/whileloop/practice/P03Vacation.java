@@ -38,7 +38,7 @@ public class P03Vacation {
         int countDays = 0;
         int spendCount = 0;
 
-        while (availableMoney < neededMoneyForTrip) { //логиката тук: докато парите, които имаме налични са по-малко от парите за екскурзията. Защо да продължаваме да събираме, ако имамедостратъчно пари. Тогава ще излезем от цикъла
+        while (availableMoney < neededMoneyForTrip) { //Докато парите, които са налични са по-малко от парите за екскурзията. В противен случай ще излезем от цикъла
 
             if (spendCount == 5) {
                 break;
