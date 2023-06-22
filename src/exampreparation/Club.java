@@ -20,8 +20,8 @@ o	Брой на коктейлите за поръчката – цяло чис
 	"Target acquired."
 След това да се отпечата:
 	"Club income - {приходи от клуба} leva."
-Парите да бъдат форматирани до втората цифра след десетичния знак.
-*/
+Парите да бъдат форматирани до втората цифра след десетичния знак.*/
+
 public class Club {
     public static void main(String[] args) {
 
@@ -31,26 +31,24 @@ public class Club {
         String input = scanner.nextLine();
 
         double overallProfit = 0.0;
-
         while (!input.equals("Party!")){
             String cocktailName = input;
             int cocktailsCount = Integer.parseInt(scanner.nextLine());
 
             double cocktailPrice = cocktailName.length();
-
             double priceForParticulaCocktails = cocktailPrice * cocktailsCount;
 
-                if (!(priceForParticulaCocktails % 2 == 0)){
-                    priceForParticulaCocktails = priceForParticulaCocktails * 0.75;
-                }
+            if (!(priceForParticulaCocktails % 2 == 0)){
+                priceForParticulaCocktails = priceForParticulaCocktails * 0.75;
+            }
 
-                overallProfit += priceForParticulaCocktails;
+            overallProfit += priceForParticulaCocktails;
 
             if (overallProfit >= desiredProfit){
                 break;
             }
 
-                input = scanner.nextLine();
+            input = scanner.nextLine();
         }
 
 
