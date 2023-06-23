@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 /*Напишете програма, която да изчислява броя на посетителите в един фитнес център.
 В началото програмата получава броя на посетителите на фитнеса и за всеки човек - дейността, която извършва във фитнеса.
-На края програмата трябва да отпечата броят трениращи за всяка една дейност ("Back", "Chest", 'Legs", "Abs")
-и броят клиенти, закупили продукт ("Protein shake", "Protein bar").
-Също така - процентът трениращи (спрямо общия брой посетители) и процентът на клиентите, закупили продукт от фитнеса.
+Накрая програмата трябва да отпечата броя трениращи за всяка една дейност ("Back", "Chest", 'Legs", "Abs")
+и броя клиенти, закупили продукт ("Protein shake", "Protein bar").
+Също така - процента трениращи (спрямо общия брой посетители) и процента на клиентите, закупили продукт от фитнеса.
 Вход
 От конзолата се чете число, след това поредица от низове, всяко на отделен ред:
 •	На първия ред – броят на посетителите във фитнеса – цяло число в интервала [1...1000]
@@ -21,8 +21,8 @@ import java.util.Scanner;
 Ред 6 -	"{брой хора закупили протеинов блок} - protein bar"
 Ред 7 -	"{процент на хората дошли да тренират}% - work out"
 Ред 8 -	"{процент на хората дошли да купят протеин}% - protein"
-Всички проценти трябва да са форматирани до втората цифра след десетичния знак.
-*/
+Всички проценти трябва да са форматирани до втората цифра след десетичния знак.*/
+
 public class FitnessCenter {
     public static void main(String[] args) {
 
@@ -36,7 +36,6 @@ public class FitnessCenter {
         int counterAbs = 0;
         int counterProteinShake = 0;
         int counterProteinBar = 0;
-
 
         for (int i = 0; i < numberOfVisitors ; i++) {
             int currentNumberOfVisitors = numberOfVisitors;
@@ -56,7 +55,6 @@ public class FitnessCenter {
             }
 
             currentNumberOfVisitors ++;
-
         }
 
         int counterWorkoutVisitors = counterBack + counterChest + counterLegs + counterAbs;
@@ -74,6 +72,5 @@ public class FitnessCenter {
 
         System.out.printf("%.2f%% - work out\n", percentWorkoutVisitors);
         System.out.printf("%.2f%% - protein\n", percentProteinBuyer);
-
     }
 }
