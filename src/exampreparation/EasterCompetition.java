@@ -17,8 +17,8 @@ o	оценка за козунак от един човек  – цяло чис
 Ако след командата "Stop", пекарят е с най-много точки до момента, да се отпечата допълнителен ред:
 •	"{името на пекаря} is the new number 1!"
 След дегустация на всички козунаци, да се отпечата един ред:
-•	"{името на пекаря с най-много точки} won competition with {точките на пекаря} points!"
-*/
+•	"{името на пекаря с най-много точки} won competition with {точките на пекаря} points!"*/
+
 public class EasterCompetition {
     public static void main(String[] args) {
 
@@ -35,7 +35,6 @@ public class EasterCompetition {
             int personalPoints = 0;
 
             String input = scanner.nextLine(); //int + Stop
-
 
             while (!input.equals("Stop")){
                 int currentEstimate = Integer.parseInt(input);
