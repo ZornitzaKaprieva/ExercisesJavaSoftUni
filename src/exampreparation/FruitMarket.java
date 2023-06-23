@@ -1,6 +1,5 @@
 package exampreparation;
 
-
 import java.util.Scanner;
 
 /*Мария решава да мине на диета и отива до близкия пазар, за да купи
@@ -22,10 +21,9 @@ import java.util.Scanner;
 Изход
 Да се отпечата на конзолата едно число:
 •	парите, които са необходими на Мария.
-Резултатът да се форматира до вторта цифра след десетичната запетая.
-*/
-public class FruitMarket {
+Резултатът да се форматира до вторта цифра след десетичната запетая.*/
 
+public class FruitMarket {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -45,12 +43,9 @@ public class FruitMarket {
         double orangesPrice = orangesKg * orangesPriceKg;
         double raspberriesPrice = raspberriesKg * raspberriesPriceKg;
 
-
         double neededMoney = strawberriesPrice + bananasPrice + orangesPrice + raspberriesPrice;
 
         System.out.printf("%.2f", neededMoney);
-
-
     }
 }
 
