@@ -22,9 +22,8 @@ import java.util.Scanner;
 o	"It is party time! {останали пари} leva left."
 •	Ако бюджетът не е достатъчен:
 o	"No party! {недостигащи пари} leva needed."
-Резултатът да бъде форматиран до втория знак след десетичната запетая.
+Резултатът да бъде форматиран до втория знак след десетичната запетая.*/
 
-*/
 public class EasterParty {
     public static void main(String[] args) {
 
