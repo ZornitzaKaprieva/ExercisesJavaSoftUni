@@ -15,10 +15,9 @@ import java.util.Scanner;
 •	Четвърти ред – цена за един чадър. Реално число в интервала [0.00...50.00]
 Изход
 "{сумата за покриване на разходите} lv."
-Резултатът да се форматира до втората цифра след десетичния знак.
-*/
-public class PoolDay {
+Резултатът да се форматира до втората цифра след десетичния знак.*/
 
+public class PoolDay {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
