@@ -8,7 +8,7 @@ import java.util.Scanner;
                     Банско/Боровец	                                    Варна/Бургас
                 с екипировка	без екипировка	                 със закуска     	без закуска
 Цена за ден	        100лв.	        80лв	                        130лв.	            100лв.
-VIP отстъпка	    10%	            5%	                            12%	                7%
+VIP отстъпка	      10%	            5%	                          12%	                7%
 Ако клиентът е заявил престой повече от 7 дни, получава единия ден безплатно.
 Вход:
 От конзолата се четат 4 реда:
@@ -22,8 +22,7 @@ VIP отстъпка	    10%	            5%	                            12%	    
 "The price is {цената, форматирана до втория знак}lv! Have a nice time!"
 •	Ако потребителят е въвел по-малко от 1 ден за престой, отпечатваме:
 "Days must be positive number!"
-•	Когато при въвеждането на града или вида на пакета се въведат невалидни данни, отпечатваме: "Invalid input!"
-*/
+•	Когато при въвеждането на града или вида на пакета се въведат невалидни данни, отпечатваме: "Invalid input!"*/ 
 public class TravelAgency {
     public static void main(String[] args) {
 
@@ -34,15 +33,12 @@ public class TravelAgency {
         String packageType = scanner.nextLine(); //"noEquipment",  "withEquipment", "noBreakfast" или "withBreakfast"
         String vip = scanner.nextLine(); //"yes" или "no"
         int daysOfStay = Integer.parseInt(scanner.nextLine());
-
-
+      
         //price calculation:
         double priceADay = 0;
-
         switch (city){
             case "Bansko":
             case "Borovets":
-
                 switch (packageType){
                     case "noEquipment":
                         priceADay += 80.0;
@@ -51,7 +47,6 @@ public class TravelAgency {
                             priceADay = 80 * 0.95;
                         }
                         break;
-
                     case "withEquipment":
                         priceADay = 100.0;
 
@@ -61,10 +56,8 @@ public class TravelAgency {
                         break;
                 }
                 break;
-
             case "Varna":
             case "Burgas":
-
                 switch (packageType){
                     case "noBreakfast":
                         priceADay += 100.0;
@@ -73,7 +66,6 @@ public class TravelAgency {
                             priceADay = 100 * 0.93;
                         }
                         break;
-
                     case "withBreakfast":
                         priceADay += 130.0;
 
@@ -91,7 +83,6 @@ public class TravelAgency {
             overallPrice = overallPrice - priceADay;
         }
 
-
         //isValid check
         boolean isValidDAysOfStay = (daysOfStay >= 1);
         boolean isValidCity = city.equals("Bansko") || city.equals("Borovets") || city.equals("Varna") || city.equals("Burgas");
@@ -105,7 +96,5 @@ public class TravelAgency {
         } else if (isValidInput) {
             System.out.printf("The price is %.2flv! Have a nice time!", overallPrice);
         }
-
-
     }
 }
