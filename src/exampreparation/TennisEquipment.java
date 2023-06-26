@@ -20,8 +20,8 @@ import java.util.Scanner;
 Изход
 На конзолата се отпечатват 2 реда:
 •	"Price to be paid by Djokovic {1/8 от общата цена, закръглена към по-малкото цяло число}"
-•	"Price to be paid by sponsors {7/8 от общата цена, закръглена към по-голямото цяло число}"
-*/
+•	"Price to be paid by sponsors {7/8 от общата цена, закръглена към по-голямото цяло число}"*/
+
 public class TennisEquipment {
     public static void main(String[] args) {
 
@@ -47,6 +47,5 @@ public class TennisEquipment {
 
         System.out.printf("Price to be paid by Djokovic %.0f%n", Math.floor(costsDjokovic));
         System.out.printf("Price to be paid by sponsors %.0f%n", Math.ceil(costsSponsors));
-
     }
 }
