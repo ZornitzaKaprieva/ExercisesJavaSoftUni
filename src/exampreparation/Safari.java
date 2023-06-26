@@ -20,8 +20,8 @@ import java.util.Scanner;
 "Safari time! Money left: {колко пари са им останали} lv. "
 •	Ако бюджетът не е достатъчен:
 "Not enough money! Money needed: {колко пари не им достигат} lv."
-Сумите трябва да са форматирани до втория знак след десетичната запетая.
-*/
+Сумите трябва да са форматирани до втория знак след десетичната запетая.*/
+
 public class Safari {
     public static void main(String[] args) {
 
@@ -47,7 +47,6 @@ public class Safari {
                 break;
         }
 
-
         double moneyLeft = Math.abs(budget - totalPriceWithDiscount);
 
         if (allCosts <= budget){
@@ -55,6 +54,5 @@ public class Safari {
         } else {
             System.out.printf("Not enough money! Money needed: %.2f lv.", moneyLeft);
         }
-
     }
 }
