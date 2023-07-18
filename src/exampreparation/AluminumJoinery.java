@@ -33,57 +33,56 @@ public class AluminumJoinery {
 
         Scanner scanner = new Scanner(System.in);
 
-        int framesNum = Integer.parseInt(scanner.nextLine());
-        String framesType = scanner.nextLine();
+        int joineryQty = Integer.parseInt(scanner.nextLine());
+        String joineryType = scanner.nextLine();
         String receiptMethod = scanner.nextLine();
 
-        double framePrice = 0;
-        switch (framesType){
+        double joineryPrice = 0;
+        switch (joineryType){
             case "90X130":
-                framePrice = 110;
-                if (framesNum >= 30 && framesNum < 60){
-                    framePrice = framePrice * 0.95;
-                } else if (framesNum >= 60){
-                    framePrice = framePrice * 0.92;
+                joineryPrice = 110;
+                if (joineryQty >= 30 && joineryQty < 60){
+                    joineryPrice = joineryPrice * 0.95;
+                } else if (joineryQty >= 60){
+                    joineryPrice = joineryPrice * 0.92;
                 }
                 break;
             case "100X150":
-                framePrice = 140;
-                if (framesNum >= 40 && framesNum < 80){
-                    framePrice = framePrice * 0.94;
-                } else if (framesNum >= 80){
-                    framePrice = framePrice * 0.9;
+                joineryPrice = 140;
+                if (joineryQty >= 40 && joineryQty < 80){
+                    joineryPrice = joineryPrice * 0.94;
+                } else if (joineryQty >= 80){
+                    joineryPrice = joineryPrice * 0.9;
                 }
                 break;
             case "130X180":
-                framePrice = 190;
-                if (framesNum >= 20 && framesNum < 50){
-                    framePrice = framePrice * 0.93;
-                } else if (framesNum >= 50){
-                    framePrice = framePrice * 0.88;
+                joineryPrice = 190;
+                if (joineryQty >= 20 && joineryQty < 50){
+                    joineryPrice = joineryPrice * 0.93;
+                } else if (joineryQty >= 50){
+                    joineryPrice = joineryPrice * 0.88;
                 }
                 break;
             case "200X300":
-                framePrice = 250;
-                if (framesNum >= 25 && framesNum < 50){
-                    framePrice = framePrice * 0.91;
-                } else if (framesNum >= 50){
-                    framePrice = framePrice * 0.86;
+                joineryPrice = 250;
+                if (joineryQty >= 25 && joineryQty < 50){
+                    joineryPrice = joineryPrice * 0.91;
+                } else if (joineryQty >= 50){
+                    joineryPrice = joineryPrice * 0.86;
                 }
                 break;
         }
 
         double sum = 0;
         if (receiptMethod.equals("Without delivery")){
-            sum = framePrice * framesNum;
+            sum = joineryPrice * joineryQty;
         } else if (receiptMethod.equals("With delivery")){
-            sum = (framePrice * framesNum) + 60;
+            sum = (joineryPrice * joineryQty) + 60;
         }
 
-
-        if (framesNum < 10){
+        if (joineryQty < 10){
             System.out.println("Invalid order");
-        } else if (framesNum <= 99){
+        } else if (joineryQty <= 99){
             System.out.printf("%.2f BGN%n", sum);
         } else {
             sum = sum * 0.96;
