@@ -53,7 +53,6 @@ public class P03StreamOfLetters {
                     counterC = 0;
                     counterN = 0;
                 }
-
             }
 
             input = scanner.nextLine();
