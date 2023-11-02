@@ -206,8 +206,6 @@ U
 %src/exampreparation/TravelAgency.java,a\e\aeef2b8495f0559ee0829613e109d339d0b980a0
 V
 &src/exampreparation/CoffeeMachine.java,0\6\06cdba876c8f1d8032ef16e9a0a2015496be10ef
-^
-.src/firststeps/lab/P04InchesToCentimeters.java,b\0\b003ae8a141cf647ee6bb8d06e4f9573aefb18a9
 Z
 *src/firststeps/lab/P06ConcatenateData.java,a\d\adcbe447630498b5672a5b93b234695548b94716
 `
