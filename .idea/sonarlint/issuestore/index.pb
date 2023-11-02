@@ -172,8 +172,6 @@ e
 ,src/loops/forloop/lab/P08NumberSequence.java,e\5\e5849b512f7d2c9d6f54ef9f958e95700d29465a
 t
 Dsrc/conditionalstatements/advanced/practice/P08OnTimeForTheExam.java,9\a\9ae79f1402ef51995097fd8dfd734e542ac31737
-R
-"src/firststeps/lab/P08PetShop.java,0\c\0cb55410a1a4dfb43d7e5bfd7c89d176c64e96d5
 a
 1src/loops/forloop/pracitce/P08TennisRanklist.java,9\b\9b0f28ccfe08bd099cd85593d775b0ef4117b7a7
 X
