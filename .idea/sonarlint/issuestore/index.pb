@@ -108,8 +108,6 @@ Z
 *src/loops/whileloop/practice/P05Coins.java,f\0\f0421e140f9a7d30d7465c19e10fa1e13e9d69a1
 i
 9src/conditionalstatements/practice/P05GodzillaVSKong.java,4\5\45865c377ff9f4ac810cbda3797b73db841c7d7d
-Y
-)src/firststeps/lab/P05GreetingByName.java,6\3\63789faaf6382656a1e39cfa0606bc91ad321025
 k
 ;src/conditionalstatements/advanced/practice/P05Journey.java,e\f\ef05e4b15cf6cebf45c5860707370b6a4ce8373a
 d
@@ -154,8 +152,6 @@ m
 =src/conditionalstatements/advanced/practice/P07HotelRoom.java,d\2\d28ff1e15cd330dd15cb3aedb591627ee552d25f
 [
 +src/loops/whileloop/practice/P07Moving.java,e\b\eba5b317fac97325d8fd8e17ac5de8b1985b46b8
-[
-+src/firststeps/lab/P07ProjectsCreation.java,9\0\907cfb48c565710a562b32b2ffc55efd0a63ee82
 c
 3src/conditionalstatements/practice/P07Shopping.java,e\8\e8fd343430bc0ff3ef674468564ee49b2552e8bf
 X
@@ -206,8 +202,6 @@ U
 %src/exampreparation/TravelAgency.java,a\e\aeef2b8495f0559ee0829613e109d339d0b980a0
 V
 &src/exampreparation/CoffeeMachine.java,0\6\06cdba876c8f1d8032ef16e9a0a2015496be10ef
-Z
-*src/firststeps/lab/P06ConcatenateData.java,a\d\adcbe447630498b5672a5b93b234695548b94716
 `
 0src/firststeps/exercises/P04VegetableMarket.java,b\1\b168b4948b31a991f96a37c3ada846aa5048dd13
 V

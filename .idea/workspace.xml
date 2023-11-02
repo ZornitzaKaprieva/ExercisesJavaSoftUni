@@ -71,20 +71,7 @@
       <recent name="conditionalstatements.exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MovieDay">
-    <configuration name="FitnessCenter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exam.preparation.FitnessCenter" />
-      <module name="ExercisesJavaSoftUni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exam.preparation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P07ProjectsCreation">
     <configuration name="MovieDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exampreparation.MovieDay" />
       <module name="ExercisesJavaSoftUni" />
@@ -137,13 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P07ProjectsCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firststeps.lab.P07ProjectsCreation" />
+      <module name="ExercisesJavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firststeps.lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P07ProjectsCreation" />
         <item itemvalue="Application.MovieDay" />
         <item itemvalue="Application.P07MinNumber" />
         <item itemvalue="Application.P02Passed" />
         <item itemvalue="Application.P01StudentInformation" />
-        <item itemvalue="Application.FitnessCenter" />
       </list>
     </recent_temporary>
   </component>
