@@ -71,26 +71,13 @@
       <recent name="conditionalstatements.exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P08PetShop">
+  <component name="RunManager" selected="Application.P09YardGreening">
     <configuration name="MovieDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exampreparation.MovieDay" />
       <module name="ExercisesJavaSoftUni" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exampreparation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P02Passed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.P02Passed" />
-      <module name="ExercisesJavaSoftUni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaBasics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,13 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P09YardGreening" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firststeps.lab.P09YardGreening" />
+      <module name="ExercisesJavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firststeps.lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P09YardGreening" />
         <item itemvalue="Application.P08PetShop" />
         <item itemvalue="Application.P07ProjectsCreation" />
         <item itemvalue="Application.MovieDay" />
         <item itemvalue="Application.P07MinNumber" />
-        <item itemvalue="Application.P02Passed" />
       </list>
     </recent_temporary>
   </component>

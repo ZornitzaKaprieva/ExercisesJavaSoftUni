@@ -182,8 +182,6 @@ o
 -src/loops/forloop/lab/P09LeftAndRightSum.java,e\c\ec9e041ca91a05c0c41fdf690a5d6f7868e7b688
 k
 ;src/conditionalstatements/advanced/practice/P09SkiTrip.java,e\1\e17f9b3e495f7017a5f7c5fbeeff73d1f41c57c4
-W
-'src/firststeps/lab/P09YardGreening.java,0\c\0c9db4888d114587c146f28f32b17d6a8cadb4fb
 l
 <src/conditionalstatements/advanced/lab/P10InvalidNumber.java,e\8\e84c97374df1c7deaff01e987af3ec4c85ace7c2
 h
