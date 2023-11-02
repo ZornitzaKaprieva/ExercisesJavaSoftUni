@@ -36,8 +36,6 @@ X
 (src/loops/whileloop/lab/P01ReadText.java,d\7\d7dfcf0bad1a5f3f5f1c375f174ac7a1ab6b04c5
 e
 5src/conditionalstatements/practice/P01SumSeconds.java,e\a\ea03c7d4297648d404f00582dd64a5e629571aee
-X
-(src/firststeps/practice/P01USDToBGN.java,8\6\864946830567ac75c9fac2bb6bc813272c9aa661
 e
 5src/conditionalstatements/practice/P02BonusScore.java,b\9\b95a42fed2a413ec15d0263206e99886c4236dc6
 o
