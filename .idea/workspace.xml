@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="Packages have been edited">
+    <list default="true" id="1acfc024-8ddf-4d41-9217-5e5d6943f726" name="Changes" comment="P03">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firststeps/lab/P04InchesToCentimeters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststeps/lab/P04InchesToCentimeters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -40,7 +41,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2K5RjFLkbdiQFcqdf85RI3ZYXDH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,20 +64,33 @@
       <recent name="D:\QA\domashni i upravneniq\Java\ExercisesJavaSoftUni\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="first.steps.in.coding.additinal.exercises" />
-      <recent name="exam.preparation" />
-      <recent name="nestedLoops.nestedLoopsPractice" />
-      <recent name="nestedLoops.nestedLoopsLab" />
-      <recent name="nestedLoopsLab" />
+      <recent name="exampreparation" />
+      <recent name="loops.nestedloops.practice" />
+      <recent name="loops.nestedloops.exercises" />
+      <recent name="conditionalstatements.advanced.exercises" />
+      <recent name="conditionalstatements.exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P02Passed">
+  <component name="RunManager" selected="Application.MovieDay">
     <configuration name="FitnessCenter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exam.preparation.FitnessCenter" />
       <module name="ExercisesJavaSoftUni" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exam.preparation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exampreparation.MovieDay" />
+      <module name="ExercisesJavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exampreparation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,25 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04EvenPowersof2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forLoop.forLoopLab.P04EvenPowersof2" />
+    <configuration name="P07MinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.whileloop.lab.P07MinNumber" />
       <module name="ExercisesJavaSoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="forLoop.forLoopLab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P10OddEvenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forLoop.forLoopLab.P10OddEvenSum" />
-      <module name="ExercisesJavaSoftUni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="forLoop.forLoopLab.*" />
+          <option name="PATTERN" value="loops.whileloop.lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MovieDay" />
+        <item itemvalue="Application.P07MinNumber" />
         <item itemvalue="Application.P02Passed" />
         <item itemvalue="Application.P01StudentInformation" />
         <item itemvalue="Application.FitnessCenter" />
-        <item itemvalue="Application.P10OddEvenSum" />
-        <item itemvalue="Application.P04EvenPowersof2" />
       </list>
     </recent_temporary>
   </component>
@@ -153,411 +156,422 @@
       <option name="presentableId" value="Default" />
       <updated>1673262591727</updated>
     </task>
-    <task id="LOCAL-00028" summary="Java Practice from SoftUni: For Loop Practice P08">
-      <created>1675581305874</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
+    <task id="LOCAL-00150" summary="P02">
+      <created>1693384847483</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
       <option name="project" value="LOCAL" />
-      <updated>1675581305874</updated>
+      <updated>1693384847483</updated>
     </task>
-    <task id="LOCAL-00029" summary="Java Practice from SoftUni: While Loop Lab P01">
-      <created>1675581579329</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
+    <task id="LOCAL-00151" summary="P03">
+      <created>1693385004652</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
       <option name="project" value="LOCAL" />
-      <updated>1675581579329</updated>
+      <updated>1693385004652</updated>
     </task>
-    <task id="LOCAL-00030" summary="Java Practice from SoftUni: While Loop Lab P01">
-      <created>1675581592781</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
+    <task id="LOCAL-00152" summary="P04">
+      <created>1693506627511</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
       <option name="project" value="LOCAL" />
-      <updated>1675581592781</updated>
+      <updated>1693506627512</updated>
     </task>
-    <task id="LOCAL-00031" summary="Java Practice from SoftUni: While Loop Lab P02">
-      <created>1675675856369</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
+    <task id="LOCAL-00153" summary="P05">
+      <created>1693506710833</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
       <option name="project" value="LOCAL" />
-      <updated>1675675856369</updated>
+      <updated>1693506710833</updated>
     </task>
-    <task id="LOCAL-00032" summary="Java Practice from SoftUni: While Loop Lab P03">
-      <created>1675675915068</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
+    <task id="LOCAL-00154" summary="P06">
+      <created>1693506791080</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
       <option name="project" value="LOCAL" />
-      <updated>1675675915068</updated>
+      <updated>1693506791080</updated>
     </task>
-    <task id="LOCAL-00033" summary="Java Practice from SoftUni: While Loop Lab P04">
-      <created>1675675962088</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
+    <task id="LOCAL-00155" summary="P07">
+      <created>1693507042595</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
       <option name="project" value="LOCAL" />
-      <updated>1675675962088</updated>
+      <updated>1693507042595</updated>
     </task>
-    <task id="LOCAL-00034" summary="Java Practice from SoftUni: While Loop Lab P05">
-      <created>1675676021141</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
+    <task id="LOCAL-00156" summary="P08">
+      <created>1693507133254</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
       <option name="project" value="LOCAL" />
-      <updated>1675676021141</updated>
+      <updated>1693507133254</updated>
     </task>
-    <task id="LOCAL-00035" summary="Java Practice from SoftUni: While Loop Lab P06">
-      <created>1675780260216</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
+    <task id="LOCAL-00157" summary="P09">
+      <created>1693815807359</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
       <option name="project" value="LOCAL" />
-      <updated>1675780260217</updated>
+      <updated>1693815807360</updated>
     </task>
-    <task id="LOCAL-00036" summary="Java Practice from SoftUni: While Loop Lab P07">
-      <created>1675780332849</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
+    <task id="LOCAL-00158" summary="P10">
+      <created>1693815879569</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
       <option name="project" value="LOCAL" />
-      <updated>1675780332849</updated>
+      <updated>1693815879570</updated>
     </task>
-    <task id="LOCAL-00037" summary="Java Practice from SoftUni: While Loop Lab P08">
-      <created>1675780374978</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
+    <task id="LOCAL-00159" summary="P01">
+      <created>1693816076760</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
       <option name="project" value="LOCAL" />
-      <updated>1675780374978</updated>
+      <updated>1693816076760</updated>
     </task>
-    <task id="LOCAL-00038" summary="Java Practice from SoftUni: While Loop Practice P01">
-      <created>1675924519250</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
+    <task id="LOCAL-00160" summary="P02">
+      <created>1693816144684</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
       <option name="project" value="LOCAL" />
-      <updated>1675924519250</updated>
+      <updated>1693816144684</updated>
     </task>
-    <task id="LOCAL-00039" summary="Java Practice from SoftUni: While Loop Practice P02">
-      <created>1675924607119</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
+    <task id="LOCAL-00161" summary="P03">
+      <created>1693816204413</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
       <option name="project" value="LOCAL" />
-      <updated>1675924607119</updated>
+      <updated>1693816204413</updated>
     </task>
-    <task id="LOCAL-00040" summary="Java Practice from SoftUni: While Loop Practice P03">
-      <created>1675924649562</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
+    <task id="LOCAL-00162" summary="P04">
+      <created>1693897767792</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
       <option name="project" value="LOCAL" />
-      <updated>1675924649562</updated>
+      <updated>1693897767793</updated>
     </task>
-    <task id="LOCAL-00041" summary="Java Practice from SoftUni: While Loop Practice P04">
-      <created>1676131978048</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
+    <task id="LOCAL-00163" summary="P05">
+      <created>1693897808330</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
       <option name="project" value="LOCAL" />
-      <updated>1676131978048</updated>
+      <updated>1693897808330</updated>
     </task>
-    <task id="LOCAL-00042" summary="Java Practice from SoftUni: While Loop Practice P05">
-      <created>1676270146096</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
+    <task id="LOCAL-00164" summary="P06">
+      <created>1693897860129</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
       <option name="project" value="LOCAL" />
-      <updated>1676270146096</updated>
+      <updated>1693897860129</updated>
     </task>
-    <task id="LOCAL-00043" summary="Java Practice from SoftUni: While Loop Practice P06">
-      <created>1676270192522</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
+    <task id="LOCAL-00165" summary="P07">
+      <created>1693897911362</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
       <option name="project" value="LOCAL" />
-      <updated>1676270192522</updated>
+      <updated>1693897911362</updated>
     </task>
-    <task id="LOCAL-00044" summary="Java Practice from SoftUni: While Loop Practice P07">
-      <created>1676270234491</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
+    <task id="LOCAL-00166" summary="P08">
+      <created>1693897960216</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
       <option name="project" value="LOCAL" />
-      <updated>1676270234491</updated>
+      <updated>1693897960216</updated>
     </task>
-    <task id="LOCAL-00045" summary="Java Practice from SoftUni: Nested Loops Lab P01">
-      <created>1676712520842</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
+    <task id="LOCAL-00167" summary="P09">
+      <created>1693987537446</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
       <option name="project" value="LOCAL" />
-      <updated>1676712520842</updated>
+      <updated>1693987537446</updated>
     </task>
-    <task id="LOCAL-00046" summary="Java Practice from SoftUni: Nested Loops Lab P02">
-      <created>1676712560929</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
+    <task id="LOCAL-00168" summary="P10">
+      <created>1693987614475</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
       <option name="project" value="LOCAL" />
-      <updated>1676712560929</updated>
+      <updated>1693987614475</updated>
     </task>
-    <task id="LOCAL-00047" summary="Java Practice from SoftUni: Nested Loops Lab P03">
-      <created>1676961794298</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
+    <task id="LOCAL-00169" summary="P11">
+      <created>1693987673624</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
       <option name="project" value="LOCAL" />
-      <updated>1676961794298</updated>
+      <updated>1693987673624</updated>
     </task>
-    <task id="LOCAL-00048" summary="Java Practice from SoftUni: Nested Loops Lab P04">
-      <created>1676961846139</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
+    <task id="LOCAL-00170" summary="P12">
+      <created>1693987759192</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
       <option name="project" value="LOCAL" />
-      <updated>1676961846139</updated>
+      <updated>1693987759192</updated>
     </task>
-    <task id="LOCAL-00049" summary="Java Practice from SoftUni: Nested Loops Lab P05">
-      <created>1676961885096</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
+    <task id="LOCAL-00171" summary="P13">
+      <created>1693987809434</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
       <option name="project" value="LOCAL" />
-      <updated>1676961885096</updated>
+      <updated>1693987809434</updated>
     </task>
-    <task id="LOCAL-00050" summary="Java Practice from SoftUni: Nested Loops Lab P06">
-      <created>1677063735742</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
+    <task id="LOCAL-00172" summary="P14">
+      <created>1694103125520</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
       <option name="project" value="LOCAL" />
-      <updated>1677063735742</updated>
+      <updated>1694103125521</updated>
     </task>
-    <task id="LOCAL-00051" summary="Java Practice from SoftUni: Nested Loops Practice P02">
-      <created>1677063802773</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
+    <task id="LOCAL-00173" summary="P01">
+      <created>1694103255427</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
       <option name="project" value="LOCAL" />
-      <updated>1677063802773</updated>
+      <updated>1694103255427</updated>
     </task>
-    <task id="LOCAL-00052" summary="Java Practice from SoftUni: Nested Loops Practice P03">
-      <created>1677063849427</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
+    <task id="LOCAL-00174" summary="P06">
+      <created>1694103356864</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
       <option name="project" value="LOCAL" />
-      <updated>1677063849427</updated>
+      <updated>1694103356864</updated>
     </task>
-    <task id="LOCAL-00053" summary="Java Practice from SoftUni: Nested Loops Practice P04">
-      <created>1677140789866</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
+    <task id="LOCAL-00175" summary="CinemaTickets">
+      <created>1694103454752</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
       <option name="project" value="LOCAL" />
-      <updated>1677140789866</updated>
+      <updated>1694103454752</updated>
     </task>
-    <task id="LOCAL-00054" summary="Java Practice from SoftUni: Nested Loops Practice P05">
-      <created>1677140918553</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
+    <task id="LOCAL-00176" summary="EnergyBooster">
+      <created>1694103505049</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
       <option name="project" value="LOCAL" />
-      <updated>1677140918553</updated>
+      <updated>1694103505049</updated>
     </task>
-    <task id="LOCAL-00055" summary="Java Practice from SoftUni: Nested Loops Practice P05 (Solution 2)">
-      <created>1677141027942</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
+    <task id="LOCAL-00177" summary="FavoriteMovie">
+      <created>1694546966815</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
       <option name="project" value="LOCAL" />
-      <updated>1677141027942</updated>
+      <updated>1694546966816</updated>
     </task>
-    <task id="LOCAL-00056" summary="Java Practice from SoftUni: Packages have been edited">
-      <created>1677264005465</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
+    <task id="LOCAL-00178" summary="FitnessCard">
+      <created>1694547024789</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
       <option name="project" value="LOCAL" />
-      <updated>1677264005465</updated>
+      <updated>1694547024790</updated>
     </task>
-    <task id="LOCAL-00057" summary="Java Practice from SoftUni: Exam Preparation(Club)">
-      <created>1677336014299</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
+    <task id="LOCAL-00179" summary="FoodForPets">
+      <created>1694547087737</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
       <option name="project" value="LOCAL" />
-      <updated>1677336014300</updated>
+      <updated>1694547087737</updated>
     </task>
-    <task id="LOCAL-00058" summary="Java Practice from SoftUni: Exam Preparation(EasterBakery)">
-      <created>1677785252241</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
+    <task id="LOCAL-00180" summary="GameNumberWars">
+      <created>1694547142819</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
       <option name="project" value="LOCAL" />
-      <updated>1677785252241</updated>
+      <updated>1694547142819</updated>
     </task>
-    <task id="LOCAL-00059" summary="Java Practice from SoftUni: Exam Preparation(EasterCompetition)">
-      <created>1677785548091</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
+    <task id="LOCAL-00181" summary="HighJump">
+      <created>1694547194713</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
       <option name="project" value="LOCAL" />
-      <updated>1677785548092</updated>
+      <updated>1694547194713</updated>
     </task>
-    <task id="LOCAL-00060" summary="Java Practice from SoftUni: Exam Preparation(EasterLunch)">
-      <created>1678451546033</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
+    <task id="LOCAL-00182" summary="MountainRun">
+      <created>1694633462550</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
       <option name="project" value="LOCAL" />
-      <updated>1678451546033</updated>
+      <updated>1694633462551</updated>
     </task>
-    <task id="LOCAL-00061" summary="Java Practice from SoftUni: Exam Preparation(EasterParty)">
-      <created>1678451589752</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
+    <task id="LOCAL-00183" summary="MovieTickets">
+      <created>1694633544248</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
       <option name="project" value="LOCAL" />
-      <updated>1678451589752</updated>
+      <updated>1694633544248</updated>
     </task>
-    <task id="LOCAL-00062" summary="Java Practice from SoftUni: Exam Preparation(FitnessCenter)">
-      <created>1678451700687</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
+    <task id="LOCAL-00184" summary="NameGame">
+      <created>1694633601247</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
       <option name="project" value="LOCAL" />
-      <updated>1678451700687</updated>
+      <updated>1694633601247</updated>
     </task>
-    <task id="LOCAL-00063" summary="Java Practice from SoftUni: Exam Preparation(FruitMarket)">
-      <created>1678451753942</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
+    <task id="LOCAL-00185" summary="OscarsWeekInCinema">
+      <created>1694633652237</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
       <option name="project" value="LOCAL" />
-      <updated>1678451753942</updated>
+      <updated>1694633652238</updated>
     </task>
-    <task id="LOCAL-00064" summary="Java Practice from SoftUni: Exam Preparation(PoolDay)">
-      <created>1678696092661</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
+    <task id="LOCAL-00186" summary="PaintingEggs">
+      <created>1694633710329</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
       <option name="project" value="LOCAL" />
-      <updated>1678696092661</updated>
+      <updated>1694633710329</updated>
     </task>
-    <task id="LOCAL-00065" summary="Java Practice from SoftUni: Exam Preparation(Safari)">
-      <created>1678696129872</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
+    <task id="LOCAL-00187" summary="PCGameShop">
+      <created>1694716666178</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
       <option name="project" value="LOCAL" />
-      <updated>1678696129872</updated>
+      <updated>1694716666179</updated>
     </task>
-    <task id="LOCAL-00066" summary="Java Practice from SoftUni: Exam Preparation(TennisEquipment)">
-      <created>1678696192558</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
+    <task id="LOCAL-00188" summary="Renovation">
+      <created>1694716728986</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
       <option name="project" value="LOCAL" />
-      <updated>1678696192558</updated>
+      <updated>1694716728986</updated>
     </task>
-    <task id="LOCAL-00067" summary="Java Practice from SoftUni: Exam Preparation(TravelAgency)">
-      <created>1678696238172</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
+    <task id="LOCAL-00189" summary="Series">
+      <created>1694716767220</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
       <option name="project" value="LOCAL" />
-      <updated>1678696238173</updated>
+      <updated>1694716767220</updated>
     </task>
-    <task id="LOCAL-00068" summary="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P01)">
-      <created>1678886398000</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
+    <task id="LOCAL-00190" summary="SeriesCalculator">
+      <created>1694716808127</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
       <option name="project" value="LOCAL" />
-      <updated>1678886398000</updated>
+      <updated>1694716808127</updated>
     </task>
-    <task id="LOCAL-00069" summary="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P02)">
-      <created>1678886434201</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
+    <task id="LOCAL-00191" summary="Skeleton">
+      <created>1694716850436</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
       <option name="project" value="LOCAL" />
-      <updated>1678886434201</updated>
+      <updated>1694716850437</updated>
     </task>
-    <task id="LOCAL-00070" summary="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P03)">
-      <created>1678886468372</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
+    <task id="LOCAL-00192" summary="SuitcasesLoad">
+      <created>1695018536688</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
       <option name="project" value="LOCAL" />
-      <updated>1678886468372</updated>
+      <updated>1695018536688</updated>
     </task>
-    <task id="LOCAL-00071" summary="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P04)">
-      <created>1678975305736</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
+    <task id="LOCAL-00193" summary="TheMostPowerfulWord">
+      <created>1695018587629</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
       <option name="project" value="LOCAL" />
-      <updated>1678975305737</updated>
+      <updated>1695018587629</updated>
     </task>
-    <task id="LOCAL-00072" summary="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding">
-      <created>1685339022305</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
+    <task id="LOCAL-00194" summary="TouristShop">
+      <created>1695018633615</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
       <option name="project" value="LOCAL" />
-      <updated>1685339022305</updated>
+      <updated>1695018633615</updated>
     </task>
-    <task id="LOCAL-00073" summary="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding (P01)">
-      <created>1685339192261</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
+    <task id="LOCAL-00195" summary="TournamentOfChristmas">
+      <created>1695018682124</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
       <option name="project" value="LOCAL" />
-      <updated>1685339192261</updated>
+      <updated>1695018682124</updated>
     </task>
-    <task id="LOCAL-00074" summary="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding (P03)">
-      <created>1685339338479</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
+    <task id="LOCAL-00196" summary="VetParking">
+      <created>1695018727978</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
       <option name="project" value="LOCAL" />
-      <updated>1685339338479</updated>
+      <updated>1695018727978</updated>
     </task>
-    <task id="LOCAL-00075" summary="Java Practice from SoftUni: Lab: First Steps in Coding (P03)">
-      <created>1685339492378</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
+    <task id="LOCAL-00197" summary="WorldSnookerChampionship">
+      <created>1695149298971</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
       <option name="project" value="LOCAL" />
-      <updated>1685339492378</updated>
+      <updated>1695149298972</updated>
     </task>
-    <task id="LOCAL-00076" summary="Packages have been edited">
-      <created>1685426421674</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
+    <task id="LOCAL-00198" summary="P03">
+      <created>1698910583685</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
       <option name="project" value="LOCAL" />
-      <updated>1685426421674</updated>
+      <updated>1698910583685</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <option name="localTasksCounter" value="199" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Practice from SoftUni: Nested Loops Practice P03" />
-    <MESSAGE value="Java Practice from SoftUni: Nested Loops Practice P04" />
-    <MESSAGE value="Java Practice from SoftUni: Nested Loops Practice P05" />
-    <MESSAGE value="Java Practice from SoftUni: Nested Loops Practice P05 (Solution 2)" />
-    <MESSAGE value="Java Practice from SoftUni: Packages have been edited" />
-    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(Club)" />
-    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(EasterBakery)" />
-    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(EasterCompetition)" />
-    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(EasterLunch)" />
-    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(EasterParty)" />
-    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(FitnessCenter)" />
-    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(FruitMarket)" />
-    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(PoolDay)" />
-    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(Safari)" />
-    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(TennisEquipment)" />
-    <MESSAGE value="Java Practice from SoftUni: Exam Preparation(TravelAgency)" />
-    <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P01)" />
-    <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P02)" />
-    <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P03)" />
-    <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding(P04)" />
-    <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding" />
-    <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding (P01)" />
-    <MESSAGE value="Java Practice from SoftUni: Additinal Exercises: First Steps in Coding (P03)" />
-    <MESSAGE value="Java Practice from SoftUni: Lab: First Steps in Coding (P03)" />
-    <MESSAGE value="Packages have been edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="Packages have been edited" />
+    <MESSAGE value="P06" />
+    <MESSAGE value="CinemaTickets" />
+    <MESSAGE value="EnergyBooster" />
+    <MESSAGE value="FavoriteMovie" />
+    <MESSAGE value="FitnessCard" />
+    <MESSAGE value="FoodForPets" />
+    <MESSAGE value="GameNumberWars" />
+    <MESSAGE value="HighJump" />
+    <MESSAGE value="MountainRun" />
+    <MESSAGE value="MovieTickets" />
+    <MESSAGE value="NameGame" />
+    <MESSAGE value="OscarsWeekInCinema" />
+    <MESSAGE value="PaintingEggs" />
+    <MESSAGE value="PCGameShop" />
+    <MESSAGE value="Renovation" />
+    <MESSAGE value="Series" />
+    <MESSAGE value="SeriesCalculator" />
+    <MESSAGE value="Skeleton" />
+    <MESSAGE value="SuitcasesLoad" />
+    <MESSAGE value="TheMostPowerfulWord" />
+    <MESSAGE value="TouristShop" />
+    <MESSAGE value="TournamentOfChristmas" />
+    <MESSAGE value="VetParking" />
+    <MESSAGE value="WorldSnookerChampionship" />
+    <MESSAGE value="P03" />
+    <option name="LAST_COMMIT_MESSAGE" value="P03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/conditionalstatements/lab/P01ExcellentResult.java</url>
-          <line>13</line>
+          <line>14</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/conditionalstatements/practice/P03TimePlus15Minutes.java</url>
-          <line>21</line>
+          <line>24</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/conditionalstatements/practice/P07Shopping.java</url>
-          <line>39</line>
+          <line>40</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/conditionalstatements/practice/P06WorldSwimmingRecord.java</url>
-          <line>44</line>
+          <line>41</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/conditionalstatements/practice/P08LunchBreak.java</url>
-          <line>35</line>
+          <line>33</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/conditionalstatements/practice/P08LunchBreak.java</url>
-          <line>33</line>
+          <line>31</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -567,27 +581,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/conditionalstatements/advanced/practice/P03NewHouse.java</url>
-          <line>84</line>
+          <line>81</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/conditionalstatements/advanced/practice/P03NewHouse.java</url>
-          <line>36</line>
+          <line>34</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/conditionalstatements/advanced/practice/P04FishingBoat.java</url>
-          <line>42</line>
+          <line>41</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/conditionalstatements/advanced/practice/P09SkiTrip.java</url>
-          <line>70</line>
+          <line>67</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/conditionalstatements/advanced/exercises/P01MatchTickets.java</url>
-          <line>67</line>
+          <line>64</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
