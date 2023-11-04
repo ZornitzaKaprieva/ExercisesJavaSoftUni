@@ -16,7 +16,7 @@ import java.util.Scanner;
 Примерен вход1: 365
 Примерен изход1: 811.76
 Примерен вход2: 550
-Примерен вход и изход2: 1223.2*/
+Примерен изход2: 1223.2*/
 
 public class P08BasketballEquipment {
     public static void main(String[] args) {
