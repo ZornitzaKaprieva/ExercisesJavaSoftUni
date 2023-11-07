@@ -19,19 +19,22 @@ Oт конзолата се въвеждат цените в лева на ск�
 •	Пети ред – килограма миди. Цяло число в интервала [0 ... 100]
 Изход
 Да се отпечата на конзолата едно число с плаваща запетая: колко пари ще са нужни на Георги, за да си плати сметката.
-Числото трябва да е форматирано до вторият знак след десетичната запетая (1.2457 -> 1.25).*/
+Числото трябва да е форматирано до вторият знак след десетичната запетая (1.2457 -> 1.25).
+Примерен вход1: 6.90  4.20  1.5  2.5  1
+Примерен изход1: 42.96
+Примерен вход2: 5.55  3.57  4.3  3.6  7
+Примерен изход2: 113.82*/
 
 public class P06Fishland {
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        double mackerelPricePerKg = Double.parseDouble(scanner.nextLine()); //скумрия
-        double spratPricePerKg = Double.parseDouble(scanner.nextLine()); //цаца
+        double mackerelPricePerKg = Double.parseDouble(scanner.nextLine());
+        double spratPricePerKg = Double.parseDouble(scanner.nextLine());
 
-        double bonitoKilos = Double.parseDouble(scanner.nextLine()); //паламуд
-        double scadKilos = Double.parseDouble(scanner.nextLine()); //сафрит
-        double musselsKilos = Double.parseDouble(scanner.nextLine()); //миди
+        double bonitoKilos = Double.parseDouble(scanner.nextLine());
+        double scadKilos = Double.parseDouble(scanner.nextLine());
+        double musselsKilos = Double.parseDouble(scanner.nextLine());
 
         double bonitoPrice = (mackerelPricePerKg + (mackerelPricePerKg * 0.6)) * bonitoKilos;
         double scadPrice = (spratPricePerKg + (spratPricePerKg * 0.8)) * scadKilos;
