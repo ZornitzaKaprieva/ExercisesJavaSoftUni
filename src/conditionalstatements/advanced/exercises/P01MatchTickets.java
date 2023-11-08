@@ -22,7 +22,11 @@ import java.util.Scanner;
 o	"Yes! You have {останалите пари на групата} leva left."
 •	Ако бюджетът НЕ Е достатъчен:
 o	"Not enough money! You need {сумата, която не достига} leva."
-Сумите трябва да са форматирани с точност до два знака след десетичната запетая.*/
+Сумите трябва да са форматирани с точност до два знака след десетичната запетая.
+Примерен вход1: 1000  Normal  1
+Примерен изход1: Yes! You have 0.01 leva left.
+Примерен вход2: 30000  VIP  49
+Примерен изход2: Not enough money! You need 6499.51 leva.*/
 
 public class P01MatchTickets {
     public static void main(String[] args) {
