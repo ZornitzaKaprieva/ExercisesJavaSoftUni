@@ -14,7 +14,11 @@ seniors	    7	            9.50	        13.75	    21.50
 •	Третият ред – вид трасе – "trail", "cross-country", "downhill" или "road"
 Изход
 Да се отпечата на конзолата едно число:
-"{дарената сума}" - форматирана с точност до 2 знака след десетичната запетая.*/
+"{дарената сума}" - форматирана с точност до 2 знака след десетичната запетая.
+Примерен вход1: 10  20  trail
+Примерен изход1: 185.25
+Примерен вход2: 21  26  cross-country
+Примерен изход2: 394.25*/
 
 public class P02BikeRace {
     public static void main(String[] args) {
@@ -27,7 +31,6 @@ public class P02BikeRace {
         double payTaxJuniors =  0;//juniors * trialTax
         double payTaxSeniors =  0;//seniors * trialTax
         double payTax = payTaxJuniors + payTaxSeniors;
-
 
         switch (trace){
             case "trail":
