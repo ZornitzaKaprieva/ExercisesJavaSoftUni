@@ -28,10 +28,17 @@ o	За всеки сезон колата ще е джип и цената ще 
 o	"Economy class", "Compact class" или "Luxury class"
 •	Втори ред – "{Вид на колата} - {цена на колата}"
 o	Видът на колата – "Cabrio" или "Jeep"
-o	Цената трябва да е форматирана до втория знак след запетаята*/
+o	Цената трябва да е форматирана до втория знак след запетаята
+Примерен вход1: 450  Summer
+Примерен изход1:
+    Compact class
+    Cabrio - 202.50
+Примерен вход2: 1010  Winter
+Примерен изход2:
+    Luxury class
+    Jeep - 909.00*/
 
 public class P04CarToGo {
-
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
