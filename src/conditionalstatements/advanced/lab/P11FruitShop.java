@@ -11,7 +11,13 @@ import java.util.Scanner;
 Напишете програма, която чете от конзолата плод (banana / apple / orange / grapefruit / kiwi / pineapple / grapes),
 ден от седмицата (Monday / Tuesday / Wednesday / Thursday / Friday / Saturday / Sunday)
 и количество (десетично число) , въведени от потребителя, и пресмята цената според цените от таблиците по-горе.
-При невалиден ден от седмицата или невалидно име на плод да се отпечата "error".*/
+При невалиден ден от седмицата или невалидно име на плод да се отпечата "error".
+Примерен вход1: apple  Tuesday  2
+Примерен изход1: 2.40
+Примерен вход2: grapes  Saturday  0.5
+Примерен изход2: 2.10
+Примерен вход3: tomato  Monday  0.5
+Примерен изход3:error*/
 
 public class P11FruitShop {
     public static void main(String[] args) {
