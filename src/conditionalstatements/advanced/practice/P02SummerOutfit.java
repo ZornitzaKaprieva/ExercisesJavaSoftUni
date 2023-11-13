@@ -10,13 +10,17 @@ import java.util.Scanner;
 •	Градусите - цяло число в интервала [10…42]
 •	Текст, време от денонощието - с възможности - "Morning", "Afternoon", "Evening"
 Време от денонощието / градуси      Morning               Afternoon            Evening
-10 <= градуси <= 18     	      Outfit = Sweatshirt     Outfit = Shirt      Outfit = Shirt
-                                Shoes = Sneakers        Shoes = Moccasins   Shoes = Moccasins
-18 < градуси <= 24              Outfit = Shirt          Outfit = T-Shirt    Outfit = Shirt
-                                Shoes = Moccasins       Shoes = Sandals     Shoes = Moccasins
-градуси >= 25                   Outfit = T-Shirt        Outfit = Swim Suit  Outfit = Shirt
-                                Shoes = Sandals         Shoes = Barefoot    Shoes = Moccasins
-Да се отпечата на конзолата на един ред: "It's {градуси} degrees, get your {облекло} and {обувки}."*/
+10 <= градуси <= 18     	      Outfit = Sweatshirt     Outfit = Shirt       Outfit = Shirt
+                                  Shoes = Sneakers        Shoes = Moccasins    Shoes = Moccasins
+18 < градуси <= 24                Outfit = Shirt          Outfit = T-Shirt     Outfit = Shirt
+                                  Shoes = Moccasins       Shoes = Sandals      Shoes = Moccasins
+градуси >= 25                     Outfit = T-Shirt        Outfit = Swim Suit   Outfit = Shirt
+                                  Shoes = Sandals         Shoes = Barefoot     Shoes = Moccasins
+Да се отпечата на конзолата на един ред: "It's {градуси} degrees, get your {облекло} and {обувки}."
+Примерен вход1: 16 Morning
+Примерен изход1: It's 16 degrees, get your Sweatshirt and Sneakers.
+Примерен вход2: 28 Evening
+Примерен изход2: It's 28 degrees, get your Shirt and Moccasins.*/
 
 public class P02SummerOutfit {
     public static void main(String[] args) {
