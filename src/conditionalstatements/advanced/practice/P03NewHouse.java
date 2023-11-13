@@ -19,9 +19,13 @@ import java.util.Scanner;
 •	Брой цветя - цяло число в интервала [10…1000]
 •	Бюджет - цяло число в интервала [50…2500]
 Да се отпечата на конзолата на един ред:
-•	Ако бюджета им е достатъчен - "Hey, you have a great garden with {броя цвета} {вид цветя} and {останалата сума} leva left."
-•	Ако бюджета им е НЕ достатъчен - "Not enough money, you need {нужната сума} leva more."
-Сумата да бъде форматирана до втория знак след десетичната запетая.*/
+•	Ако бюджетът им е достатъчен - "Hey, you have a great garden with {броя цвета} {вид цветя} and {останалата сума} leva left."
+•	Ако бюджетът им е НЕ достатъчен - "Not enough money, you need {нужната сума} leva more."
+Сумата да бъде форматирана до втория знак след десетичната запетая.
+Примерен вход1: Roses  55  250
+Примерен изход1: Not enough money, you need 25.00 leva more.
+Примерен вход2: Tulips  88  260
+Примерен изход2: Hey, you have a great garden with 88 Tulips and 50.56 leva left.*/
 
 public class P03NewHouse {
     public static void main(String[] args) {
