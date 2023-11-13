@@ -25,7 +25,11 @@ import java.util.Scanner;
 "Yes! You have {останалите пари} leva left."
 •	Ако бюджетът НЕ Е достатъчен:
 "Not enough money! You need {сумата, която не достига} leva."
-Сумите трябва да са форматирани с точност до два знака след десетичната запетая.*/
+Сумите трябва да са форматирани с точност до два знака след десетичната запетая.
+Примерен вход1: 3000  Summer  11
+Примерен изход1: Not enough money! You need 570.00 leva.
+Примерен вход2: 2000  Winter  13
+Примерен изход2: Yes! You have 50.00 leva left.*/
 
 public class P04FishingBoat {
     public static void main(String[] args) {
