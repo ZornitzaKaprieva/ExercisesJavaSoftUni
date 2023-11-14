@@ -20,10 +20,13 @@ president apartment	10% от крайната цена	15% от крайната
 •	Трети ред - оценка - "positive"  или "negative"
 Изход
 На конзолата трябва да се отпечата един ред:
-•	Цената за престоят му в хотела, форматирана до втория знак след десетичната запетая.*/
+•	Цената за престоят му в хотела, форматирана до втория знак след десетичната запетая.
+Примерен вход1: 14  apartment  positive
+Примерен изход1: 264.06
+Примерен вход2: 12  room for one person  positive
+Примерен изход2: 247.50*/
 
 public class P09SkiTrip {
-
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
