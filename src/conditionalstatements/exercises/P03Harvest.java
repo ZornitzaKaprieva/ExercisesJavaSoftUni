@@ -22,7 +22,13 @@ o	“It will be a tough winter! More {недостигащо вино} liters wi
 o	“Good harvest this year! Total wine: {общо вино} liters.”
 	Резултатът трябва да е закръглен към по-ниско цяло число
 o	“{Оставащо вино} liters left -> {вино за 1 работник} liters per person.”
-	И двата резултата трябва да са закръглени към по-високото цяло число*/
+	И двата резултата трябва да са закръглени към по-високото цяло число
+Примерен вход1: 650  2  175  3
+Примерен изход1:
+    Good harvest this year! Total wine: 208 liters.
+    33 liters left -> 11 liters per person.
+Примерен вход2: 1020 1.5  425  4
+Примерен изход2: It will be a tough winter! More 180 liters wine needed.*/
 
 public class P03Harvest {
     public static void main(String[] args) {
