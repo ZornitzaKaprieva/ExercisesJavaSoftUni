@@ -19,7 +19,11 @@ import java.util.Scanner;
 o	"{килограма остатък} kilos of food left."
 	Резултатът трябва да е закръглен към по-ниското цяло число
 •	Ако оставената храна НЕ Е достатъчна:
-o	“{килограма недостигат} more kilos of food are needed.”*/
+o	“{килограма недостигат} more kilos of food are needed.”
+Примерен вход1: 2  10  1  1  1200
+Примерен изход1: 3 kilos of food left.
+Примерен вход2: 5  10  2.1  0.8  321
+Примерен изход2: 7 more kilos of food are needed.*/
 
 public class P05Pets {
     public static void main(String[] args) {
