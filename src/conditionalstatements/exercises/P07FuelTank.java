@@ -7,7 +7,13 @@ import java.util.Scanner;
 текст с възможности: "Diesel", "Gasoline" или "Gas", а на втория литрите гориво, които има в резервоара.
 Ако литрите гориво са повече или равни на 25, на конзолата да се отпечата "You have enough {вида на горивото}.",
 ако са по-малко от 25, да се отпечата "Fill your tank with {вида на горивото}!".
-В случай, че бъде въведено гориво, различно от посоченото, да се отпечата "Invalid fuel!".*/
+В случай, че бъде въведено гориво, различно от посоченото, да се отпечата "Invalid fuel!".
+Примерен вход1: Diesel  10
+Примерен изход1: Fill your tank with diesel!
+Примерен вход2: Gas  25
+Примерен изход2: You have enough gas.
+Примерен вход3: Kerosene  200
+Примерен изход3: Invalid fuel!*/
 
 public class P07FuelTank {
     public static void main(String[] args) {
