@@ -4,7 +4,11 @@ import java.util.Scanner;
 
 /*Да се напише програма, която чете парола (текст), въведена от потребителя
 и проверява дали въведената парола съвпада с фразата "s3cr3t!P@ssw0rd".
-При съвпадение да се изведе "Welcome". При несъвпадение да се изведе "Wrong password!".*/
+При съвпадение да се изведе "Welcome". При несъвпадение да се изведе "Wrong password!".
+Примерен вход1: qwerty
+Примерен изход1: Wrong password!
+Примерен вход2: s3cr3t!P@ssw0rd
+Примерен изход2:Welcome*/
 
 public class P04PasswordGuess {
     public static void main(String[] args) {
