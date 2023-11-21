@@ -23,7 +23,15 @@ o	"Wingard needs {парите недостигащи за филма} leva more
 •	Ако парите за декора и дрехите са по малко или равни на бюджета:
 o	"Action!"
 o	"Wingard starts filming with {останалите пари} leva left."
-Резултатът трябва да е форматиран до втория знак след десетичната запетая.*/
+Резултатът трябва да е форматиран до втория знак след десетичната запетая.
+Примерен вход1: 20000   120  55.5
+Примерен изход1:
+    Action!
+    Wingard starts filming with 11340.00 leva left.
+Примерен вход2: 9587.88  222  55.68
+Примерен изход2:
+    Not enough money!
+    Wingard needs 2495.77 leva more.*/
 
 public class P05GodzillaVSKong {
     public static void main(String[] args) {
