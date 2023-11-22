@@ -15,7 +15,11 @@ package conditionalstatements.practice;
 "You have enough time to watch {име на сериал} and left with {останало време} minutes free time."
 •	Ако времето не Ви е достатъчно:
 "You don't have enough time to watch {име на сериал}, you need {нужно време} more minutes."
-Времето да се закръгли до най-близкото цяло число нагоре.*/
+Времето да се закръгли до най-близкото цяло число нагоре.
+Примерен вход1: Game of Thrones  60  96
+Примерен изход1: You have enough time to watch Game of Thrones and left with 0 minutes free time.
+Примерен вход2: Teen Wolf  48  60
+Примерен изход2: You don't have enough time to watch Teen Wolf, you need 11 more minutes*/
 
 import java.util.Scanner;
 
