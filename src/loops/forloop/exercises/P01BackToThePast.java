@@ -16,7 +16,11 @@ import java.util.Scanner;
 •	Ако парите са достатъчно:
 o	"Yes! He will live a carefree life and will have {N} dollars left." – където N са парите, които ще му останат.
 •	Ако парите НЕ са достатъчно:
-o	"He will need {М} dollars to survive." – където M е сумата, която НЕ достига.*/
+o	"He will need {М} dollars to survive." – където M е сумата, която НЕ достига.
+Примерен вход1: 50000  1802
+Примерен изход1: Yes! He will live a carefree life and will have 13050.00 dollars left.
+Примерен вход2: 100000.15  1808
+Примерен изход2: He will need 12399.85 dollars to survive.*/
 
 public class P01BackToThePast {
     public static void main(String[] args) {
