@@ -22,7 +22,11 @@ import java.util.Scanner;
 "You have {остатъчен бюджет} leva left!"
 •	Ако сумата надхвърля бюджета:
 "Not enough money! You need {нужна сума} leva more!"
-Резултатът да се форматира до втория знак след десетичната запетая.*/
+Резултатът да се форматира до втория знак след десетичната запетая.
+Примерен вход1: 900  2  1  3
+Примерен изход1: You have 198.75 leva left!
+Примерен вход2: 920.45  3  1  1
+Примерен изход2:Not enough money! You need 3.92 leva more!*/
 
 public class P07Shopping {
 
