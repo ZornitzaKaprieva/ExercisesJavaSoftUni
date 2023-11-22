@@ -15,7 +15,15 @@ import java.util.Scanner;
 Изход
 Да се отпечатат на конзолата 2 реда :
 •	На първия ред: "Treated patients: {брой прегледани пациенти}."
-•	На втория ред: "Untreated patients: {брой непрегледани пациенти}."*/
+•	На втория ред: "Untreated patients: {брой непрегледани пациенти}."
+Примерен вход1: 4  7  27  9  1
+Примерен изход1:
+    Treated patients: 23.
+    Untreated patients: 21.
+Примерен вход2: 6  25  25  25  25  25  2
+Примерен изход2:
+    Treated patients: 40.
+    Untreated patients: 87.*/
 
 public class P02Hospital {
     public static void main(String[] args) {
