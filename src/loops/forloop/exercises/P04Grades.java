@@ -16,10 +16,23 @@ import java.util.Scanner;
 Ред 3 -	"Between 3.00 and 3.99: {между 3.00 и 3.99 включително}%"
 Ред 4 -	"Fail: {по-малко от 3.00}%"
 Ред 5 -	"Average: {среден успех}"
-Всички числа трябва да са форматирани до вторият знак след десетичната запетая.*/
+Всички числа трябва да са форматирани до вторият знак след десетичната запетая.
+Примерен вход1: 10  3.00  2.99  5.68  3.01  4  4  6.00  4.50  2.44  5
+Примерен изход1:
+    Top students: 30.00%
+    Between 4.00 and 4.99: 30.00%
+    Between 3.00 and 3.99: 20.00%
+    Fail: 20.00%
+    Average: 4.06
+Примерен вход2: 6  2  3  4  5  6  2.2
+Примерен изход2:
+    Top students: 33.33%
+    Between 4.00 and 4.99: 16.67%
+    Between 3.00 and 3.99: 16.67%
+    Fail: 33.33%
+    Average: 3.70*/
 
 public class P04Grades {
-
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -55,7 +68,6 @@ public class P04Grades {
         double percentStudents3Plus = students3PlusCount / numStudentsD * 100;
         double percentStudents3Minus = students3MinusCount / numStudentsD * 100;
         double avgGrade = sumGrades / numStudents;
-
 
         System.out.printf("Top students: %.2f%%%n", percentStudents5Plus);
         System.out.printf("Between 4.00 and 4.99: %.2f%%%n", percentStudents4Plus);
