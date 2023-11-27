@@ -3,7 +3,15 @@ package loops.forloop.lab;
 import java.util.Scanner;
 
 /*Напишете програма, която чете n на брой цели числа.
-Принтирайте най-голямото и най-малкото число сред въведените.*/
+Принтирайте най-голямото и най-малкото число сред въведените.
+Примерен вход1: 5  10  20  304  0  50
+Примерен изход1:
+    Max number: 304
+    Min number: 0
+Примерен вход2: 6  250  5  2  0  100  1000
+Примерен изход2:
+    Max number: 1000
+    Min number: 0*/
 
 public class P08NumberSequence {
     public static void main(String[] args) {
