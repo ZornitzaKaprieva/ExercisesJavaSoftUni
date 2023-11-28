@@ -22,7 +22,35 @@ o	Точки от оценяващия - реално число в интерв
 "Congratulations, {име на актьора} got a nominee for leading role with {точки}!"
 •	Ако точките не са достатъчни:
 	"Sorry, {име на актьора} you need {нужни точки} more!"
-Резултатът да се форматирана до първата цифра след десетичния знак!*/
+Резултатът да се форматирана до първата цифра след десетичния знак!
+Примерен вход1:
+    Zahari Baharov
+    205
+    4
+    Johnny Depp
+    45
+    Will Smith
+    29
+    Jet Lee
+    10
+    Matthew Mcconaughey
+    39
+Примерен изход1: Sorry, Zahari Baharov you need 247.5 more!
+Примерен вход2:
+    Sandra Bullock
+    340
+    5
+    Robert De Niro
+    50
+    Julia Roberts
+    40.5
+    Daniel Day-Lewis
+    39.4
+    Nicolas Cage
+    29.9
+    Stoyanka Mutafova
+    33
+Примерен изход2: Congratulations, Sandra Bullock got a nominee for leading role with 1268.5!*/
 
 public class P06Oscars {
     public static void main(String[] args) {
