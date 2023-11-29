@@ -10,7 +10,11 @@ import java.util.Scanner;
 Ред 2.	Малка буква от английската азбука за край на интервала  – от първата буква до ‚z’.
 Ред 3.	Малка буква от английската азбука – от ‘a’ до ‚z’ – като комбинациите съдържащи тази буквата се пропускат.
 Изход
-Да се отпечатат на един ред всички комбинации отговарящи на условието плюс броят им разделени с интервал.*/
+Да се отпечатат на един ред всички комбинации отговарящи на условието плюс броят им разделени с интервал.
+Примерен вход1: a c b
+Примерен изход1: aaa aac aca acc caa cac cca ccc 8
+Примерен вход2: a c z
+Примерен изход2: aaa aab aac aba abb abc aca acb acc baa bab bac bba bbb bbc bca bcb bcc caa cab cac cba cbb cbc cca ccb ccc 27*/
 
 public class P02LettersCombinations {
     public static void main(String[] args){
