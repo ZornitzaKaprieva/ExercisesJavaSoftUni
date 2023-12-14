@@ -16,7 +16,20 @@ import java.util.Scanner;
 Изход:
 Да се отпечата на конзолата:
 •	За всеки изминал ден, общата сума, която трябва да се плати – "Day: {индексът на деня} – {общата сума за деня} leva"
-•	Когато програмата приключи - "Total: {общата сума за всички дни} leva"*/
+•	Когато програмата приключи - "Total: {общата сума за всички дни} leva"
+Примерен вход1: 2  5
+Примерен изход1:
+    Day: 1 - 5.50 leva
+    Day: 2 - 9.50 leva
+    Total: 15.00 leva
+Примерен вход2:  5  2
+Примерен изход2:
+    Day: 1 - 2.25 leva
+    Day: 2 - 3.50 leva
+    Day: 3 - 2.25 leva
+    Day: 4 - 3.50 leva
+    Day: 5 - 2.25 leva
+    Total: 13.75 leva*/
 
 public class P11HappyCatParking {
     public static void main(String[] args) {
