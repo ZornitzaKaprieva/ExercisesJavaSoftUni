@@ -16,7 +16,11 @@ import java.util.Scanner;
 o	"Combination N:{пореден номер} ({първото число} + {второ число} = {магическото число})"
 •	Ако не е намерена комбинация, отговаряща на условието:
 o	"{броят на всички комбинации} combinations - neither equals {магическото число}"
-*/
+Примерен вход1: 1  10  5
+Примерен изход1: Combination N:4 (1 + 4 = 5)
+Примерен вход2: 23  24  20
+Примерен изход2: 4 combinations - neither equals 20*/
+
 public class P04SumOfTwoNumbers {
     public static void main(String[] args) {
 
