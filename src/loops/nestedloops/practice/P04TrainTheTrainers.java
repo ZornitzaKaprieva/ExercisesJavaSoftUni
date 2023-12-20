@@ -13,7 +13,35 @@ import java.util.Scanner;
  "{името на презентацията} - {средна оценка}."
 След получаване на команда "Finish" на конзолата се печата
 "Student's final assessment is {среден успех от всички презентации}." и програмата приключва.
-Всички оценки трябва да бъдат форматирани до втория знак след десетичната запетая.*/
+Всички оценки трябва да бъдат форматирани до втория знак след десетичната запетая.
+Примерен вход1:
+    2
+    While-Loop
+    6.00
+    5.50
+    For-Loop
+    5.84
+    5.66
+    Finish
+Примерен изход1:
+    While-Loop - 5.75.
+    For-Loop - 5.75.
+    Student's final assessment is 5.75.
+Примерен вход2:
+    3
+    Arrays
+    4.53
+    5.23
+    5.00
+    Lists
+    5.83
+    6.00
+    5.42
+    Finish
+Примерен изход2:
+    Arrays - 4.92.
+    Lists - 5.75.
+    Student's final assessment is 5.34.*/
 
 public class P04TrainTheTrainers {
     public static void main(String[] args) {
