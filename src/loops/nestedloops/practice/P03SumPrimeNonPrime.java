@@ -10,7 +10,16 @@ import java.util.Scanner;
 а програмата продължава своето изпълнение, очаквайки въвеждане на следващо число.
 На изхода да се отпечатат на два реда двете намерени суми в следния формат:
 •	"Sum of all prime numbers is: {prime numbers sum}"
-•	"Sum of all non prime numbers is: {nonprime numbers sum}"*/
+•	"Sum of all non prime numbers is: {nonprime numbers sum}"
+Примерен вход1: 3  9  0  7  19  4  stop
+Примерен изход1:
+    Sum of all prime numbers is: 29
+    Sum of all non prime numbers is: 13
+Примерен вход2:30  83  33  -1  20  stop
+Примерен изход2:
+    Number is negative.
+    Sum of all prime numbers is: 83
+    Sum of all non prime numbers is: 83*/
 
 public class P03SumPrimeNonPrime {
     public static void main(String[] args) {
