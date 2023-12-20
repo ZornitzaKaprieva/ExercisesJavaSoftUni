@@ -19,7 +19,33 @@ o	Типа на закупения билет - текст ("student", "standard
 o	"Total tickets: {общият брой закупени билети за всички филми}"
 o	"{процент на студентските билети}% student tickets."
 o	"{процент на стандартните билети}% standard tickets."
-o	"{процент на детските билети}% kids tickets."*/
+o	"{процент на детските билети}% kids tickets."
+Примерен вход1:
+    Taxi
+    10
+    standard
+    kid
+    student
+    student
+    standard
+    standard
+    End
+    Scary Movie
+    6
+    student
+    student
+    student
+    student
+    student
+    student
+    Finish
+Примерен изход1:
+    Taxi - 60.00% full.
+    Scary Movie - 100.00% full.
+    Total tickets: 12
+    66.67% student tickets.
+    25.00% standard tickets.
+    8.33% kids tickets.*/
 
 public class P06CinemaTickets {
     public static void main(String[] args) {
